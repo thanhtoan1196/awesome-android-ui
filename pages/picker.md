@@ -8,8 +8,11 @@ Image picker
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [ImagePicker](https://github.com/jeasonlzy/ImagePicker) | <img src="https://github.com/jeasonlzy/Screenshots/raw/master/ImagePicker/demo2.gif" width="250" height="490">
-2| [PickPhotoSample](https://github.com/Werb/PickPhotoSample) | <img src="https://github.com/Werb/PickPhotoSample/raw/master/screenshots/new_home.png" width="250" height="490">
+1| [PickPhotoSample](https://github.com/Werb/PickPhotoSample) | <img src="https://github.com/Werb/PickPhotoSample/raw/master/screenshots/new_home.png" width="250" height="490">
+2| [ImagePicker](https://github.com/jeasonlzy/ImagePicker) | <img src="https://github.com/jeasonlzy/Screenshots/raw/master/ImagePicker/demo2.gif" width="250" height="490">
+3| [PhotoPicker](https://github.com/donglua/PhotoPicker) | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
+4| [poly-picker](https://github.com/jaydeepw/poly-picker) | ![](https://github.com/jaydeepw/poly-picker/raw/develop/pp-animation.gif)
+5| [MultipleImageSelect](https://github.com/darsh2/MultipleImageSelect) | ![](https://github.com/darsh2/MultipleImageSelect/raw/master/screenshots/mis.gif)
 
 File picker
 ======================

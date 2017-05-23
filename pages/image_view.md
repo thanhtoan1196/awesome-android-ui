@@ -25,6 +25,8 @@ No. | Name | Demo
 21| [TagViewGroup](https://github.com/shellljx/TagViewGroup) | <img src="https://camo.githubusercontent.com/5c7618004034e41b5eea5cca839d23ba3f11da59/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f657a6769662e636f6d2d646339663232313539302e676966" width="250" height="490">
 22| [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) | <img src="https://github.com/flavioarfaria/KenBurnsView/raw/master/anim.gif" width="250" height="490">
 23| [DexMovingImageView](https://github.com/dexlex/DexMovingImageView) | <img src="https://github.com/dexlex/DexMovingImageView/raw/master/assets/images/dmiv_screenshot.gif" width="250" height="490">
+24| [LowPoly](https://github.com/CoXier/LowPoly) | ![](https://github.com/CoXier/LowPoly/raw/master/art/captain.jpg)
+25| [motion](https://github.com/nvanbenschoten/motion) | ![](https://github.com/nvanbenschoten/motion/raw/master/motionImage.png)
 
 Viewer
 ======================

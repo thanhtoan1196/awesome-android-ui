@@ -63,8 +63,8 @@ Other
 No. | Name | Demo
 :---: | :---: | ---
 1| [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) | https://github.com/MarcinMoskala/ActivityStarter
-2| [CamView](https://github.com/LivotovLabs/CamView) | https://github.com/LivotovLabs/CamView
-3| [cameraview](https://github.com/google/cameraview) | https://github.com/google/cameraview
+2| [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/raw/master/screens/1.gif" width="250" height="490">
+3| [Android PDFView](https://github.com/JoanZapata/android-pdfview) | ![](https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67)
 4| [StepView](https://github.com/baoyachi/StepView) | <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" width="250" height="490">
 5| [TimelineView](https://github.com/qapqap/TimelineView) | <img src="https://github.com/qapqap/TimelineView/raw/master/Screenshot.png" width="250" height="490">
 6| [Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout) | ![](https://camo.githubusercontent.com/490039a4bea1e9a298d83ae344d124c872620ea6/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3734373835372f73637265656e73686f74732f323234353632362f5f5f5f5f2e6769663f7261773d74727565)
@@ -85,7 +85,7 @@ No. | Name | Demo
 21| [RippleView](https://github.com/siriscac/RippleView) | <img src="https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966" width="250" height="490">
 22| [3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid) | <img src="https://raw.githubusercontent.com/misakuo/3dTagCloudAndroid/master/screenshot.gif" width="250" height="490">
 23| [StarWars.Android](https://github.com/Yalantis/StarWars.Android) | ![](https://github.com/Yalantis/StarWars.Android/raw/master/star_wars-concept.gif)
-24| [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) | ![](https://camo.githubusercontent.com/230a482ee48f7e0a0788e287d865d32e74abb9fc/68747470733a2f2f6d6174657269616c2d64657369676e2e73746f726167652e676f6f676c65617069732e636f6d2f7075626c6973682f6d6174657269616c5f765f382f6d6174657269616c5f6578745f7075626c6973682f30427a6870355a347748626133633368745631497765564e4b6346552f636f6d706f6e656e74735f6469616c6f67735f75706461746573312e706e67)
+24| [Vorolay](https://github.com/Quatja/Vorolay) | ![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_1.png)
 25| [ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout) | <img src="https://github.com/zhangke3016/ParticleDismissLayout/raw/master/gif/screen1.gif" width="250" height="490">
 26| [Takt](https://github.com/wasabeef/Takt) | ![](https://github.com/wasabeef/Takt/raw/master/art/takt.gif)
 27| [ActivityRouter](https://github.com/mzule/ActivityRouter) | <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="250" height="490">
@@ -95,8 +95,7 @@ No. | Name | Demo
 31| [StatusBarUtil](https://github.com/laobie/StatusBarUtil) | ![](https://github.com/laobie/StatusBarUtil/raw/master/img/status_bar_util.png)
 32| [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | <img src="https://camo.githubusercontent.com/16af60840003c7f6bc70a3f72a7662a228707eb3/687474703a2f2f6661742e6766796361742e636f6d2f546f74616c436865657266756c44726f6d65646172792e676966" width="250" height="490">
 33| [Trianglify](https://github.com/manolovn/trianglify) | <img src="https://github.com/manolovn/trianglify/raw/master/art/001.png" width="250" height="490">
-34| [Vorolay](https://github.com/Quatja/Vorolay) | ![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_1.png)
-35| [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/raw/master/screens/1.gif" width="250" height="490">
-36| [Android PDFView](https://github.com/JoanZapata/android-pdfview) | ![](https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67)
-37| [Dspec](https://github.com/lucasr/dspec) | ![](https://github.com/lucasr/dspec/raw/master/images/sample.png)
-38| [IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference) | <img src="https://github.com/tasomaniac/IntegrationPreference/raw/master/screenshot1.png" width="250" height="490">
+34| [IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference) | <img src="https://github.com/tasomaniac/IntegrationPreference/raw/master/screenshot1.png" width="250" height="490">
+35| [Genius-Android](https://github.com/qiujuer/Genius-Android) | ![](https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png)
+36| [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) | ![](https://github.com/Rogero0o/PasswordLoadingView/raw/master/Demo/1.gif)
+37| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
