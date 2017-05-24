@@ -9,6 +9,7 @@ No. | Name | Demo
 5| [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) | ![](https://github.com/bufferapp/BufferTextInputLayout/raw/master/art/descending.gif)
 6| [ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | ![](https://github.com/gotokatsuya/ParkedTextView/raw/master/doc/demo-gif.gif)
 7| [AnimatedEditText](https://github.com/alphamu/AnimatedEditText) | <img src="https://camo.githubusercontent.com/004e3593da1a874dab3c0e9ea95c01217b7dad06/687474703a2f2f692e67697068792e636f6d2f783141735a4a79705436726d772e676966" width="250" height="490">
+8| [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | ![](https://github.com/rengwuxian/MaterialEditText/raw/master/images/min_characters.png)
 
 Mask
 ======================

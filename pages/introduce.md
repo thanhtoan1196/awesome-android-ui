@@ -11,6 +11,8 @@ No. | Name | Demo
 7| [EasyIntro](https://github.com/meNESS/EasyIntro) | ![](https://raw.githubusercontent.com/meNESS/EasyIntro/master/screenshots/1.jpg)
 8| [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) | <img src="https://raw.githubusercontent.com/kunall17/EntryScreenManager/screenshots/entryscreen.gif" width="250" height="490">
 9| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
+10| [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) | <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="250" height="490">
+11| [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) | ![](https://github.com/Cleveroad/SlidingTutorial-Android/raw/master/images/demo.gif)
 
 Guide
 ======================

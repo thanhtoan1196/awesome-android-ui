@@ -37,3 +37,4 @@ No. | Name | Demo
 5| [FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) | <img src="https://github.com/H07000223/FlycoPageIndicator/raw/master/preview_FlycoPageIndicator.gif" width="250" height="490">
 6| [InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator) | <img src="https://github.com/lightSky/InfiniteIndicator/raw/master/apk/demo.gif" width="250" height="490">
 7| [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | <img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="250" height="490">
+8| [PodSLider](https://github.com/bhargavms/PodSLider) | ![](https://github.com/bhargavms/PodSLider/raw/master/assets/gifs/ezgif.com-gif-maker.gif?raw=true)

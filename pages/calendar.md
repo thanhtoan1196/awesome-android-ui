@@ -23,3 +23,4 @@ No. | Name | Demo
 19| [android-betterpickers](https://github.com/code-troopers/android-betterpickers) | <img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_recurrence.png" width="250" height="490">
 20| [smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android) | <img src="https://camo.githubusercontent.com/32f13ca5e698e3a40fa04b4f83df9240dbbee063/687474703a2f2f692e696d6775722e636f6d2f5835336b6c555a2e6769663f31" width="250" height="490">
 21| [calendar-widget](https://github.com/plusonelabs/calendar-widget) | ![](https://github.com/plusonelabs/calendar-widget/raw/master/assets/screenshots/widget-device.png)
+22| [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) | <img src="https://cloud.githubusercontent.com/assets/4659608/23710316/58e61be0-042d-11e7-92d5-c4bf08a6509b.gif" width="250" height="490">

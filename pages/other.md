@@ -99,3 +99,4 @@ No. | Name | Demo
 35| [Genius-Android](https://github.com/qiujuer/Genius-Android) | ![](https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png)
 36| [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) | ![](https://github.com/Rogero0o/PasswordLoadingView/raw/master/Demo/1.gif)
 37| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
+38| [Swipper](https://github.com/sdsmdg/Swipper) | <img src="https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width="250" height="490">
