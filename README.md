@@ -6,7 +6,7 @@ List of Android UI Libraries
 * [Tab](pages/tab.md)
 * [Viewpager](pages/viewpager.md)
 * [Swipe Back](pages/swipe_back.md)
-* [Pull down](pages/pull_down.md)
+* [Drag down](pages/drag_down.md)
 * [List](pages/list.md)
 * [Grid](pages/grid.md)
 * [Pull refresh](pages/pull_refresh.md)

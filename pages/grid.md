@@ -11,3 +11,5 @@ No. | Name | Demo
 7| [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) | <img src="https://github.com/H07000223/FlycoTabLayout/raw/master/preview_1.gif" width="250" height="490">
 8| [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) | <img src="https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png" width="250" height="490">
 9| [groupie](https://github.com/lisawray/groupie) | <img src="https://camo.githubusercontent.com/37f2d500453ef5c5441c7f68bc69ad1145460a9a/687474703a2f2f692e696d6775722e636f6d2f6566744f4530762e676966" width="250" height="490">
+13| [twoway-view](https://github.com/lucasr/twoway-view) | ![](https://github.com/lucasr/twoway-view/raw/master/images/sample.png)
+10| [Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | <img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase.gif" width="250" height="490">
