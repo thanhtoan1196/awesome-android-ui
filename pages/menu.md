@@ -20,6 +20,12 @@ No. | Name | Demo
 5| [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | <img src="https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/customizableButtons.png" width="250" height="490">
 6| [Revealator](https://github.com/Jaouan/Revealator) | <img src="https://github.com/Jaouan/Revealator/raw/master/art/demo3.gif" width="250" height="490">
 7| [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) | <img src="https://raw.githubusercontent.com/andremion/Floating-Navigation-View/master/art/sample.gif" width="250" height="490">
+8| [fab-transformation](https://github.com/konifar/fab-transformation) |  <img src="https://github.com/konifar/fab-transformation/raw/master/art/transform_to_toolbar.gif" width="250" height="490">
+9| [FABToolbar](https://github.com/fafaldo/FABToolbar) | <img src="https://github.com/fafaldo/FABToolbar/raw/master/fabtoolbar.gif" width="250" height="490">
+10| [FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout) | <img src="https://github.com/bowyer-app/FabTransitionLayout/raw/master/art/bottomsheet.gif" width="250" height="490">
+11| [ArcLayout](https://github.com/ogaclejapan/ArcLayout) |  <img src="https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif" width="250" height="490">
+12| [ExpandableSelector](https://github.com/Karumi/ExpandableSelector) | <img src="https://github.com/Karumi/ExpandableSelector/raw/master/art/screenshot_demo_1.gif" width="250" height="490">
+13| [FabButton](https://github.com/ckurtm/FabButton) | <img src="https://github.com/ckurtm/FabButton/raw/master/example.gif" width="250" height="490">
 
 Other
 ======================

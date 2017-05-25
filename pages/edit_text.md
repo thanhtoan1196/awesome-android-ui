@@ -47,17 +47,17 @@ Star
 No. | Name | Demo
 :---: | :---: | ---
 1| [SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) | <img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="250" height="490">
+2| [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) | <img src="https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg" width="250" height="490">
 
 Other
 ======================
 No. | Name | Demo
 :---: | :---: | ---
 1| [Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) | <img src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="250" height="490">
-2| [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) | <img src="https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg" width="250" height="490">
-3| [PlacesAutocompleteTextView](https://github.com/seatgeek/android-PlacesAutocompleteTextView) | <img src="https://github.com/seatgeek/android-PlacesAutocompleteTextView/raw/master/resources/autocomplete.gif" width="250" height="490">
-4| [CurrencyEditText](https://github.com/BlacKCaT27/CurrencyEditText) | ![](https://github.com/BlacKCaT27/CurrencyEditText/raw/screenshots/screenshots/CurrencyEditText_show_formatting_in_german.PNG?raw=true)
-5| [simple-linkable-text](https://github.com/apradanas/simple-linkable-text) | <img src="https://raw.githubusercontent.com/apradanas/simple-linkable-text/master/screenshots/slt_demo.gif" width="250" height="490">
-7| [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete) | ![](https://camo.githubusercontent.com/da4273e1cb0fad35efd52c636dab2704d31551a9/68747470733a2f2f7261772e6769746875622e636f6d2f73706c6974776973652f546f6b656e4175746f436f6d706c6574652f67682d70616765732f696d616765732f666f63757365642e706e67)
-8| [icarus-android](https://github.com/mr5/icarus-android) | <img src="https://github.com/mr5/icarus-android/raw/master/demo.gif" width="250" height="490">
-9| [richeditor-android](https://github.com/wasabeef/richeditor-android) | ![](https://github.com/wasabeef/richeditor-android/raw/master/art/demo.gif)
-10| [AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText) | <img src="https://github.com/txusballesteros/AutosizeEditText/raw/master/assets/demo.gif" width="250" height="490">
+2| [PlacesAutocompleteTextView](https://github.com/seatgeek/android-PlacesAutocompleteTextView) | <img src="https://github.com/seatgeek/android-PlacesAutocompleteTextView/raw/master/resources/autocomplete.gif" width="250" height="490">
+3| [CurrencyEditText](https://github.com/BlacKCaT27/CurrencyEditText) | ![](https://github.com/BlacKCaT27/CurrencyEditText/raw/screenshots/screenshots/CurrencyEditText_show_formatting_in_german.PNG?raw=true)
+4| [simple-linkable-text](https://github.com/apradanas/simple-linkable-text) | <img src="https://raw.githubusercontent.com/apradanas/simple-linkable-text/master/screenshots/slt_demo.gif" width="250" height="490">
+5| [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete) | ![](https://camo.githubusercontent.com/da4273e1cb0fad35efd52c636dab2704d31551a9/68747470733a2f2f7261772e6769746875622e636f6d2f73706c6974776973652f546f6b656e4175746f436f6d706c6574652f67682d70616765732f696d616765732f666f63757365642e706e67)
+6| [icarus-android](https://github.com/mr5/icarus-android) | <img src="https://github.com/mr5/icarus-android/raw/master/demo.gif" width="250" height="490">
+7| [richeditor-android](https://github.com/wasabeef/richeditor-android) | ![](https://github.com/wasabeef/richeditor-android/raw/master/art/demo.gif)
+8| [AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText) | <img src="https://github.com/txusballesteros/AutosizeEditText/raw/master/assets/demo.gif" width="250" height="490">
