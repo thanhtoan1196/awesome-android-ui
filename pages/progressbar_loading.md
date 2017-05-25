@@ -22,6 +22,7 @@ No. | Name | Demo
 18| [ColorArcProgerssBar](https://github.com/Shinelw/ColorArcProgressBar) | <img src="https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif" width="250" height="490">
 19| [GradeProgressView](https://github.com/niniloveyou/GradeProgressView) | <img src="https://github.com/niniloveyou/GradeProgressView/raw/master/gradeProgressView.gif" width="250" height="490">
 20| [circular-slider-android](https://github.com/milosmns/circular-slider-android) | <img src="https://raw.githubusercontent.com/milosmns/circular-slider-android/master/slider/src/images/CircularSlider-Image_downscaled.png" width="250" height="490">
+21| [stackedhorizontalprogressbar](https://github.com/nisrulz/stackedhorizontalprogressbar) | ![](https://github.com/nisrulz/stackedhorizontalprogressbar/raw/develop/img/walkthrough-cropped.gif)
 
 Loading
 ======================
@@ -65,6 +66,8 @@ No. | Name | Demo
 37| [CircleProgress](https://github.com/Fichardu/CircleProgress) | <img src="https://github.com/Fichardu/CircleProgress/raw/master/art/progress.gif" width="250" height="490">
 38| [CircleProgress](https://github.com/lzyzsd/CircleProgress) | <img src="https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif" width="250" height="490">
 39| [MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation) | ![](https://github.com/KeepSafe/MultiStateAnimation/raw/master/docs/images/demo_1.gif)
+40| [ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView) | <img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif?width=300" width="250" height="490">
+41| [pageloader](https://github.com/arieridwan8/pageloader) | <img src="https://github.com/arieridwan8/pageloader/raw/master/screenshots/demo.gif" width="250" height="490">
 
 Download
 ======================
@@ -106,3 +109,4 @@ No. | Name | Demo
 7| [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | <img src="https://camo.githubusercontent.com/e5dbfd3b4b25e32d57b47a2376f27aeaa949d6a2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6d7a5f78375669487670512f5675774843727776792d492f4141414141414141434e512f7653687530396752784459763165656b6a4f4c4465534b6f484d536c75706833772f773332352d683535322d6e6f2f617073765f707265766965775f6f66667365742e676966" width="250" height="490">
 8| [ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) | ![](https://camo.githubusercontent.com/611d22202564ed670837756695c1d712f23c26ce/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363546a6c564e6b6c6855485a69625645)
 9| [PaperShredder](https://github.com/ldoublem/PaperShredder) | ![](https://github.com/ldoublem/PaperShredder/raw/master/screenshot/2.gif)
+10| [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) | <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" width="250" height="490">

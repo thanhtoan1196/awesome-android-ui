@@ -7,3 +7,4 @@ No. | Name | Demo
 3| [cameraview](https://github.com/google/cameraview) | https://github.com/google/cameraview
 4| [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) | ![](https://raw.githubusercontent.com/JeroenMols/LandscapeVideoCamera/master/screenshots/preview.gif)
 5| [material-camera](https://github.com/afollestad/material-camera) | ![](https://raw.githubusercontent.com/afollestad/material-camera/master/art/showcase1.png)
+6| [CameraFilter](https://github.com/nekocode/CameraFilter) | ![](https://github.com/nekocode/CameraFilter/raw/master/art/2.png)

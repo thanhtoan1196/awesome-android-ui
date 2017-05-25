@@ -23,6 +23,10 @@ No. | Name | Demo
 19| [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) | ![](https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif)
 20| [Tab Digit](https://github.com/xenione/tab-digit) | <img src="https://cloud.githubusercontent.com/assets/4138527/20869273/258ed640-ba6f-11e6-892c-a5986896134c.gif" width="250" height="490">
 21| [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | <img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="250" height="490">
+22| [ParticleTextView](https://github.com/Yasic/ParticleTextView) | <img src="https://github.com/Yasic/ParticleTextView/raw/master/Screenshot/Total.gif?raw=true" width="250" height="490">
+23| [ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView) | ![](https://github.com/bravoborja/ReadMoreTextView/raw/master/screenshots/collapsed.png)
+24| [ticker](https://github.com/robinhood/ticker) | ![](https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif)
+25| [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) | <img src="https://github.com/armcha/AutoLinkTextView/raw/master/screens/gif1.gif" width="250" height="490">
 
 Bubble text
 ======================

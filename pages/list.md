@@ -21,6 +21,11 @@ No. | Name | Demo
 17| [Dividers](https://github.com/Karumi/Dividers) | <img src="https://github.com/Karumi/Dividers/raw/master/art/example.gif" width="250" height="490">
 18| [RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | <img src="https://raw.githubusercontent.com/magiepooh/RecyclerItemDecoration/master/art/demo_vertical.gif" width="250" height="490">
 19| [RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) | <img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif" width="250" height="490">
+20| [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) | ![](https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg)
+21| [recyclerviewhelper](https://github.com/nisrulz/recyclerviewhelper) | <img src="https://github.com/nisrulz/recyclerviewhelper/raw/develop/img/walkthrough1.gif" width="250" height="490">
+22| [FastAdapter](https://github.com/mikepenz/FastAdapter) | <img src="https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg" width="250" height="490">
+23| [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) | ![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
+24| [SlyceMessaging](https://github.com/Slyce-Inc/SlyceMessaging) | ![](https://github.com/Slyce-Inc/SlyceMessaging/raw/master/sample-photos/example.png?raw=true)
 
 Header / Section
 ======================

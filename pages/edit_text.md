@@ -3,7 +3,7 @@ Edit text
 No. | Name | Demo
 :---: | :---: | ---
 1| [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) | ![](https://github.com/hardik-trivedi/FloatingLabel/raw/master/form-animation-_gif_-1.gif)
-2| [Float Labeled EditText](https://github.com/wrapp/floatlabelededittext) | ![](https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966)
+2| [Float Labeled EditText](https://github.com/wrapp-archive/floatlabelededittext) | ![](https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966)
 3| [StereoView](https://github.com/ImmortalZ/StereoView) | ![](https://github.com/ImmortalZ/StereoView/raw/master/img/1.gif)
 4| [MaterialTextField](https://github.com/florent37/MaterialTextField) | <img src="https://camo.githubusercontent.com/d5eb5d6991d4bde93d8ac0e0c958e3ce66c75082/687474703a2f2f692e67697068792e636f6d2f6c34316c566b4130596b615a574e5430492e676966" width="250" height="490">
 5| [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) | ![](https://github.com/bufferapp/BufferTextInputLayout/raw/master/art/descending.gif)
@@ -31,6 +31,7 @@ No. | Name | Demo
 6| [PinLockView](https://github.com/aritraroy/PinLockView) | ![](https://github.com/aritraroy/PinLockView/raw/master/screens/promo.png)
 7| [android-passcodeview](https://github.com/Arjun-sna/android-passcodeview) | <img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="250" height="490">
 8| [PatternLockView](https://github.com/aritraroy/PatternLockView) | <img src="https://github.com/aritraroy/PatternLockView/raw/master/screenshots/pattern_lock_view_small.gif?raw=true" width="250" height="490">
+9| [PasscodeView](https://github.com/hanks-zyh/PasscodeView) | <img src="https://raw.githubusercontent.com/hanks-zyh/PasscodeView/master/screenshot/demo2.png" width="250" height="490">
 
 Form
 ======================
@@ -40,6 +41,12 @@ No. | Name | Demo
 2| [material-singleinputform](https://github.com/heinrichreimer/material-singleinputform) | <img src="https://camo.githubusercontent.com/3657146b07bcf7865d22ff161f548ef2dbc05efc/687474703a2f2f692e696d6775722e636f6d2f4a4642317454712e706e67" width="250" height="490">
 3| [android-wizardpager](https://github.com/romannurik/android-wizardpager) | <img src="https://camo.githubusercontent.com/7d9c9c6fb45d90986fb8344076307072ceb50882/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d685a325268614a433350772f554a4e4c6c4d5f397156492f41414141414141416e52672f612d5574577946556759552f773431332d683638392d6e6f2f332e706e67" width="250" height="490">
 4| [WizardPager](https://github.com/TechFreak/WizardPager) | <img src="https://camo.githubusercontent.com/d1c9284cfff613dcffbdaa4db504c3a7f6cebba3/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d5f2d5376334a33626463632f5564655555446431546a492f414141414141414145456f2f7970726f4a2d4562434a672f773431322d683731362d6e6f2f77697a61726450616765722e706e67" width="250" height="490">
+
+Star
+======================
+No. | Name | Demo
+:---: | :---: | ---
+1| [SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) | <img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="250" height="490">
 
 Other
 ======================

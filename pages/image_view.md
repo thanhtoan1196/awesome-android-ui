@@ -27,6 +27,10 @@ No. | Name | Demo
 23| [DexMovingImageView](https://github.com/dexlex/DexMovingImageView) | <img src="https://github.com/dexlex/DexMovingImageView/raw/master/assets/images/dmiv_screenshot.gif" width="250" height="490">
 24| [LowPoly](https://github.com/CoXier/LowPoly) | ![](https://github.com/CoXier/LowPoly/raw/master/art/captain.jpg)
 25| [motion](https://github.com/nvanbenschoten/motion) | ![](https://github.com/nvanbenschoten/motion/raw/master/motionImage.png)
+26| [PaletteImageView](https://github.com/DingMouRen/PaletteImageView) | ![](https://github.com/DingMouRen/PaletteImageView/raw/master/imgs/img.gif)
+27| [PhotoView](https://github.com/chrisbanes/PhotoView) | https://github.com/chrisbanes/PhotoView
+28| [ShadowImageView](https://github.com/yingLanNull/ShadowImageView) | ![](https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png)
+29| [AnchorImageView](https://github.com/jcodeing/AnchorImageView) | <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.jpg" width="250" height="490">
 
 Viewer
 ======================

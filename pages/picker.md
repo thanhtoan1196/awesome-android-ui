@@ -14,6 +14,7 @@ No. | Name | Demo
 4| [PhotoPicker](https://github.com/donglua/PhotoPicker) | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
 5| [poly-picker](https://github.com/jaydeepw/poly-picker) | ![](https://github.com/jaydeepw/poly-picker/raw/develop/pp-animation.gif)
 6| [MultipleImageSelect](https://github.com/darsh2/MultipleImageSelect) | ![](https://github.com/darsh2/MultipleImageSelect/raw/master/screenshots/mis.gif)
+7| [Matisse](https://github.com/zhihu/Matisse) | <img src="https://raw.githubusercontent.com/zhihu/Matisse/master/image/screenshot_zhihu.png" width="250" height="490">
 
 File picker
 ======================
@@ -29,3 +30,4 @@ No. | Name | Demo
 1| [WheelView](https://github.com/LukeDeighton/WheelView) | ![](https://github.com/LukeDeighton/WheelView/raw/master/Graphics/bottom_wheel.gif)
 2| [CharacterPickerView](https://github.com/ImKarl/CharacterPickerView) | ![](https://github.com/ImKarl/CharacterPickerView/raw/master/Screenshot/Screenshot_2015-11-13-154813.gif)
 3| [Android-RecurrencePicker](https://github.com/Shusshu/Android-RecurrencePicker) | <img src="https://github.com/Shusshu/Android-RecurrencePicker/raw/master/screenshots/recurrence-picker.png" width="250" height="490">
+4| [Bubble-Picker](https://github.com/igalata/Bubble-Picker) | ![](https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif)

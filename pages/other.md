@@ -56,7 +56,14 @@ Scratch view
 No. | Name | Demo
 :---: | :---: | ---
 1| [ScratchView](https://github.com/sharish/ScratchView) | <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="250" height="490">
-1| [FogView_Library](https://github.com/dynamitechetan/FogView_Library) | <img src="https://github.com/dynamitechetan/FogView_Library/raw/master/screenshots/screen1.gif" width="250" height="490">
+2| [FogView_Library](https://github.com/dynamitechetan/FogView_Library) | <img src="https://github.com/dynamitechetan/FogView_Library/raw/master/screenshots/screen1.gif" width="250" height="490">
+
+Step view
+======================
+No. | Name | Demo
+:---: | :---: | ---
+1| [StepView](https://github.com/baoyachi/StepView) | <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" width="250" height="490">
+2| [Android-StepsView](https://github.com/anton46/Android-StepsView) | ![](https://github.com/anton46/Android-StepsView/raw/master/image1.png)
 
 Other
 ======================
@@ -65,7 +72,7 @@ No. | Name | Demo
 1| [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) | https://github.com/MarcinMoskala/ActivityStarter
 2| [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/raw/master/screens/1.gif" width="250" height="490">
 3| [Android PDFView](https://github.com/JoanZapata/android-pdfview) | ![](https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67)
-4| [StepView](https://github.com/baoyachi/StepView) | <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" width="250" height="490">
+4| [gravity-view](https://github.com/gofynd/gravity-view) | ![](https://camo.githubusercontent.com/ae7e72c9757a860d15d168bc3708902a2532a8cb/687474703a2f2f696d672e796f75747562652e636f6d2f76692f49724e722d4a31733866382f302e6a7067)
 5| [TimelineView](https://github.com/qapqap/TimelineView) | <img src="https://github.com/qapqap/TimelineView/raw/master/Screenshot.png" width="250" height="490">
 6| [Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout) | ![](https://camo.githubusercontent.com/490039a4bea1e9a298d83ae344d124c872620ea6/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3734373835372f73637265656e73686f74732f323234353632362f5f5f5f5f2e6769663f7261773d74727565)
 7| [RearrangeableLayout](https://github.com/rajasharan/RearrangeableLayout) | <img src="https://github.com/rajasharan/RearrangeableLayout/raw/master/screencast.gif" width="250" height="490">
@@ -100,3 +107,8 @@ No. | Name | Demo
 36| [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) | ![](https://github.com/Rogero0o/PasswordLoadingView/raw/master/Demo/1.gif)
 37| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
 38| [Swipper](https://github.com/sdsmdg/Swipper) | <img src="https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width="250" height="490">
+39| [ChromeLikeTabSwitcher](https://github.com/michael-rapp/ChromeLikeTabSwitcher) | <img src="https://github.com/michael-rapp/ChromeLikeTabSwitcher/raw/master/doc/images/smartphone_layout.gif" width="250" height="490">
+40| [ActivitySwitcher](https://github.com/Hitomis/ActivitySwitcher) | <img src="https://github.com/Hitomis/ActivitySwitcher/raw/master/preview/activity_swither.gif" width="250" height="490">
+41| [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) | ![](https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966)
+42| [WellSwipe](https://github.com/gumingwei/WellSwipe) | <img src="https://github.com/gumingwei/WellSwipe/raw/master/app/wellswipe4.gif" width="250" height="490">
+43| [android-lrc-view](https://github.com/douzifly/android-lrc-view) | <img src="https://camo.githubusercontent.com/35fcc5113ec954429e5e9cf4f0f71a88b13a9c42/68747470733a2f2f7261772e6769746875622e636f6d2f646f757a69666c792f416e64726f69642d4c7263566965772f333165343063653061326337646236666466376539303666653065346637656136316433623464302f736e6170312e6a706567" width="250" height="490">

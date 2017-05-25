@@ -27,3 +27,4 @@ No. | Name | Demo
 23| [DropDownMenu](https://github.com/JayFang1993/DropDownMenu) | <img src="https://github.com/JayFang1993/DropDownMenu/raw/master/screenshot.gif" width="250" height="490">
 24| [MetaballMenu](https://github.com/melvinjlobo/MetaballMenu) | <img src="https://github.com/melvinjlobo/MetaballMenu/raw/master/MetaballMenu.gif" width="250" height="490">
 25| [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) | <img src="https://raw.githubusercontent.com/andremion/Floating-Navigation-View/master/art/sample.gif" width="250" height="490">
+26| [Revealator](https://github.com/Jaouan/Revealator) | <img src="https://github.com/Jaouan/Revealator/raw/master/art/demo3.gif" width="250" height="490">

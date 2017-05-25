@@ -12,3 +12,4 @@ No. | Name | Demo
 8| [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) | ![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/sample.gif)
 9| [Music-Cover-View](https://github.com/andremion/Music-Cover-View) | <img src="https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_code.gif" width="250" height="490">
 10| [VidEffects](https://github.com/krazykira/VidEffects) | ![](https://cloud.githubusercontent.com/assets/2201511/9244235/e75ab7a8-41b2-11e5-90b7-33d944d1d6c8.png)
+11| [MusicBobber](https://github.com/Cleveroad/MusicBobber) | ![](https://github.com/Cleveroad/MusicBobber/raw/master/images/demo.gif)

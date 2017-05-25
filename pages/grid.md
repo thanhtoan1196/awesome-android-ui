@@ -9,3 +9,5 @@ No. | Name | Demo
 5| [FlexboxLayout](https://github.com/google/flexbox-layout) | <img src="https://github.com/google/flexbox-layout/raw/master/assets/flex-direction.gif" width="250" height="490">
 6| [DragExpandGrid](https://github.com/wedcel/DragExpandGrid) | <img src="https://github.com/wedcel/DragExpandGrid/raw/master/device-2015-08-26-180601.gif" width="250" height="490">
 7| [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) | <img src="https://github.com/H07000223/FlycoTabLayout/raw/master/preview_1.gif" width="250" height="490">
+8| [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) | <img src="https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png" width="250" height="490">
+9| [groupie](https://github.com/lisawray/groupie) | <img src="https://camo.githubusercontent.com/37f2d500453ef5c5441c7f68bc69ad1145460a9a/687474703a2f2f692e696d6775722e636f6d2f6566744f4530762e676966" width="250" height="490">

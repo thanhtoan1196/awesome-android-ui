@@ -4,15 +4,18 @@ No. | Name | Demo
 :---: | :---: | ---
 1| [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | <img src="https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif" width="250" height="490">
 2| [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) | <img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="250" height="490"> 
+3| [spruce-android](https://github.com/willowtreeapps/spruce-android) | <img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="250" height="490"> 
 
 Viewpager
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | https://www.youtube.com/watch?v=5zEOUWY9Hvo
-2| [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | <img src="https://github.com/DesarrolloAntonio/FragmentTransactionExtended/raw/master/fragmentTransactionExample/cap1.gif" width="250" height="490">
-3| [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) | <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="250" height="490">
-4| [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="250" height="490">
+1| [ViewPagerAnimator](https://github.com/StylingAndroid/ViewPagerAnimator) | https://github.com/StylingAndroid/ViewPagerAnimator
+2| [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | https://www.youtube.com/watch?v=5zEOUWY9Hvo
+3| [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | <img src="https://github.com/DesarrolloAntonio/FragmentTransactionExtended/raw/master/fragmentTransactionExample/cap1.gif" width="250" height="490">
+4| [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) | <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="250" height="490">
+5| [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="250" height="490">
+6| [DecentBanner](https://github.com/chengdazhi/DecentBanner) | ![](https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif)
 
 Drawer
 ======================
@@ -37,7 +40,7 @@ No. | Name | Demo
 3| [ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator) | https://github.com/blipinsk/ViewPropertyObjectAnimator
 4| [RxAnimations](https://github.com/0ximDigital/RxAnimations) | https://github.com/0ximDigital/RxAnimations
 5| [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | https://www.youtube.com/watch?v=qb63BYjTebU
-6| [BitmapMerger](https://github.com/cooltechworks/BitmapMerger) | <img src="https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif" width="250" height="490">
+6| [BitmapMerger](https://github.com/sharish/BitmapMerger) | <img src="https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif" width="250" height="490">
 7| [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | <img src="https://camo.githubusercontent.com/44affb72f0688c213500917009a1680b41492413/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a356969686a746c35673230387a3066326e70642e676966" width="250" height="490">
 8| [WaveDrawable](https://github.com/Alexrs95/WaveDrawable) | ![](https://github.com/Alexrs95/WaveDrawable/raw/master/wave_drawable_bounce.gif)
 9| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | <img src="https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966" width="250" height="490">
@@ -64,3 +67,8 @@ No. | Name | Demo
 30| [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) | <img src="https://github.com/jaredrummler/AnimatedSvgView/raw/master/demo/demo.gif" width="250" height="490">
 31| [CubeGrid](https://github.com/alighters/CubeGrid) | <img src="https://camo.githubusercontent.com/9caee57298ef7c0ba92044faa33b7860f99fbf85/687474703a2f2f3778707974682e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f63756265312e676966" width="250" height="490">
 32| [EmojiRain](https://github.com/Luolc/EmojiRain) | <img src="https://raw.githubusercontent.com/Luolc/EmojiRain/master/others/dropping-demo.gif" width="250" height="490">
+33| [Grav](https://github.com/glomadrian/Grav) | <img src="https://raw.githubusercontent.com/glomadrian/Grav/master/art/login.gif" width="250" height="490">
+34| [RippleViews](https://github.com/xgc1986/RippleViews) | ![](https://github.com/xgc1986/RippleViews/raw/master/docs/img/DrawableHelperV212.gif)
+35| [stencil](https://github.com/thoughtbot/stencil) | <img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="250" height="490">
+36| [ItemAnimators](https://github.com/mikepenz/ItemAnimators) | <img src="https://github.com/mikepenz/ItemAnimators/raw/develop/DEV/preview/Telecine_2016-01-09-19-01-46.gif" width="250" height="490">
+37| [Article-Details-Transition-Example](https://github.com/Jaouan/Article-Details-Transition-Example) | <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="250" height="490">

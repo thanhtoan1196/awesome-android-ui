@@ -10,3 +10,4 @@ No. | Name | Demo
 6| [android-tagview](https://github.com/kaedea/android-tagview) | <img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="250" height="490">
 7| [android-tagview](https://github.com/mcharmas/android-tagview) | <img src="https://github.com/mcharmas/android-tagview/raw/master/screenshot.png" width="250" height="490">
 8| [HashTagHelper](https://github.com/danylovolokh/HashTagHelper) | <img src="https://cloud.githubusercontent.com/assets/2686355/11998408/e6aa1f62-aaa6-11e5-911a-c598b6853862.gif" width="250" height="490">
+9| [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput) | <img src="https://github.com/pchmn/MaterialChipsInput/raw/master/docs/demo2.gif" width="250" height="490">

@@ -13,6 +13,7 @@ No. | Name | Demo
 9| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
 10| [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) | <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="250" height="490">
 11| [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) | ![](https://github.com/Cleveroad/SlidingTutorial-Android/raw/master/images/demo.gif)
+12| [Onboarding](https://github.com/eoinfogarty/Onboarding) | <img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="250" height="490">
 
 Guide
 ======================
@@ -26,3 +27,4 @@ No. | Name | Demo
 6| [TourGuide](https://github.com/worker8/TourGuide) | <img src="https://raw.githubusercontent.com/worker8/all_my_media_files/695d9a2/2015-07-01_screenshot.png" width="250" height="490">
 7| [MaterialIntroView](https://github.com/iammert/MaterialIntroView) | <img src="https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif" width="250" height="490">
 8| [ShowTipsView](https://github.com/fredericojssilva/ShowTipsView) | <img src="https://github.com/fredericojssilva/ShowTipsView/raw/master/sample.png" width="250" height="490">
+9| [Spotlight](https://github.com/wooplr/Spotlight) | <img src="https://raw.githubusercontent.com/wooplr/Spotlight/master/art/intro.gif?token=AA5ZAHdvAspW6Zj8YyyKamkV7jWXFtMHks5XaQovwA%3D%3D" width="250" height="490">

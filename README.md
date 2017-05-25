@@ -54,4 +54,5 @@ List of Android UI Libraries
 * [Tag View](pages/tag_view.md)
 * [Visualizer](pages/visualizer.md)
 * [Webview](pages/webview.md)
+* [Shortcut](pages/shortcut.md)
 * [Other](pages/other.md)
