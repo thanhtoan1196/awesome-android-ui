@@ -3,17 +3,16 @@ Introduce
 No. | Name | Demo
 :---: | :---: | ---
 1| [QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView) | https://github.com/JeasonWong/QingtingBannerView
-2| [AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) | <img src="https://github.com/ViksaaSkool/AwesomeSplash/raw/master/rdme/logo_promo.gif" width="250" height="490">
-3| [AppIntro](https://github.com/apl-devs/AppIntro) | <img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="250" height="490">
-4| [apl-devs/AppIntro](https://github.com/apl-devs/AppIntro) | <img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="250" height="490">
-5| [welcome-android](https://github.com/stephentuso/welcome-android) | <img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="250" height="490">
-6| [AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) | <img src="https://cloud.githubusercontent.com/assets/11768239/9027657/600244d6-397b-11e5-916f-409d4ab3de28.gif" width="250" height="490">
-7| [EasyIntro](https://github.com/meNESS/EasyIntro) | ![](https://raw.githubusercontent.com/meNESS/EasyIntro/master/screenshots/1.jpg)
-8| [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) | <img src="https://raw.githubusercontent.com/kunall17/EntryScreenManager/screenshots/entryscreen.gif" width="250" height="490">
-9| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
-10| [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) | <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="250" height="490">
-11| [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) | ![](https://github.com/Cleveroad/SlidingTutorial-Android/raw/master/images/demo.gif)
-12| [Onboarding](https://github.com/eoinfogarty/Onboarding) | <img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="250" height="490">
+2| [AppIntro](https://github.com/apl-devs/AppIntro) | <img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="250" height="490">
+3| [welcome-android](https://github.com/stephentuso/welcome-android) | <img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="250" height="490">
+4| [AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) | <img src="https://cloud.githubusercontent.com/assets/11768239/9027657/600244d6-397b-11e5-916f-409d4ab3de28.gif" width="250" height="490">
+5| [EasyIntro](https://github.com/meNESS/EasyIntro) | ![](https://raw.githubusercontent.com/meNESS/EasyIntro/master/screenshots/1.jpg)
+6| [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) | <img src="https://raw.githubusercontent.com/kunall17/EntryScreenManager/screenshots/entryscreen.gif" width="250" height="490">
+7| [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) | <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="250" height="490">
+8| [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) | ![](https://github.com/Cleveroad/SlidingTutorial-Android/raw/master/images/demo.gif)
+9| [Onboarding](https://github.com/eoinfogarty/Onboarding) | <img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="250" height="490">
+10| [AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) | <img src="https://github.com/ViksaaSkool/AwesomeSplash/raw/master/rdme/logo_promo.gif" width="250" height="490">
+11| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
 
 Guide
 ======================

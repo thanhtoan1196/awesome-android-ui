@@ -8,8 +8,8 @@ No. | Name | Demo
 4| [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | <img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/GuidePage1.gif" width="250" height="490">
 5| [SCViewPager](https://github.com/sacot41/SCViewPager) | <img src="https://github.com/sacot41/SCViewPager/raw/master/example_2.gif?raw=true" width="250" height="490">
 6| [SlidingBall](https://github.com/dalong982242260/SlidingBall) | ![](https://github.com/dalong982242260/SlidingBall/raw/master/img/dalong.gif?raw=true)
-7| [SlidingBallViewPager](https://github.com/dalong982242260/SlidingBallViewPager) | <img src="https://github.com/dalong982242260/SlidingBallViewPager/raw/master/img/hor.gif" width="250" height="490">
-8| [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View) | ![](https://github.com/armcha/Space-Navigation-View/raw/master/screens/mainGif.gif)
+7| [SlidingBallViewPager](https://github.com/dalong982242260/SlidingBallViewPager) | ![](https://github.com/dalong982242260/SlidingBallViewPager/raw/master/img/hor.gif)
+8| [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) | <img src="https://camo.githubusercontent.com/58c202dab77152c85467fd7edb00f08e08c2583d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753635330687752545a55614731365a6e63" width="250" height="490">
 9| [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) | ![](https://github.com/Cleveroad/FanLayoutManager/raw/master/images/demo_.gif)
 10| [SwipeSelector](https://github.com/roughike/SwipeSelector) | <img src="https://raw.githubusercontent.com/roughike/SwipeSelector/master/demo_two.gif" width="250" height="490">
 11| [MaterialLeanBack](https://github.com/florent37/MaterialLeanBack) | <img src="https://raw.githubusercontent.com/florent37/MaterialLeanBack/master/screens/sample_2.gif" width="250" height="490">
@@ -27,7 +27,6 @@ No. | Name | Demo
 23| [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager) | <img src="https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif" width="250" height="490">
 24| [UltraViewPager](https://github.com/alibaba/UltraViewPager) | <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="250" height="490">
 25| [ExpandingPager](https://github.com/qs-lll/ExpandingPager) | <img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="250" height="490">
-26| [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) | <img src="https://camo.githubusercontent.com/58c202dab77152c85467fd7edb00f08e08c2583d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753635330687752545a55614731365a6e63" width="250" height="490">
 
 Indicator
 ======================
@@ -41,4 +40,4 @@ No. | Name | Demo
 6| [InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator) | <img src="https://github.com/lightSky/InfiniteIndicator/raw/master/apk/demo.gif" width="250" height="490">
 7| [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | <img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="250" height="490">
 8| [PodSLider](https://github.com/bhargavms/PodSLider) | ![](https://github.com/bhargavms/PodSLider/raw/master/assets/gifs/ezgif.com-gif-maker.gif?raw=true)
-9| [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) | <img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="250" height="490">
+9| [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) | ![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif)
