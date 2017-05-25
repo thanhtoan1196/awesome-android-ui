@@ -11,7 +11,7 @@ No. | Name | Demo
 7| [Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu) | <img src="https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif" width="250" height="490">
 8| [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) | <img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="250" height="490">
 9| [CustomMenu](https://github.com/flyfei/CustomMenu) | <img src="https://github.com/flyfei/CustomMenu/raw/master/resources/only_left_menu.gif" width="250" height="490">
-10| [DragLayout](https://github.com/BlueMor/DragLayout) | <img src="https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif" width="250" height="490">
-11| [RESideMenu](https://github.com/romaonthego/RESideMenu) | <img src="https://github.com/romaonthego/RESideMenu/raw/master/Screenshot.png" width="250" height="490">
+10| [DragLayout](https://github.com/BlueMor/DragLayout) | ![](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)
+11| [RESideMenu](https://github.com/romaonthego/RESideMenu) | ![](https://github.com/romaonthego/RESideMenu/raw/master/Screenshot.png)
 12| [HeaderView](https://github.com/rebus007/HeaderView) | ![](https://raw.githubusercontent.com/rebus007/HeaderView/master/img/screen.png)
 13| [FantasySlide](https://github.com/mzule/FantasySlide) | <img src="https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif" width="250" height="490">
