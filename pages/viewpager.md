@@ -27,6 +27,7 @@ No. | Name | Demo
 23| [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager) | <img src="https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif" width="250" height="490">
 24| [UltraViewPager](https://github.com/alibaba/UltraViewPager) | <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="250" height="490">
 25| [ExpandingPager](https://github.com/qs-lll/ExpandingPager) | <img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="250" height="490">
+26| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
 
 Indicator
 ======================
