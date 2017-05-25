@@ -16,7 +16,6 @@ No. | Name | Demo
 12| [recyclerviewhelper](https://github.com/nisrulz/recyclerviewhelper) | <img src="https://github.com/nisrulz/recyclerviewhelper/raw/develop/img/walkthrough1.gif" width="250" height="490">
 13| [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) | ![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
 14| [FastAdapter](https://github.com/mikepenz/FastAdapter) | ![](https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg)
-15| [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | <img src="https://camo.githubusercontent.com/8b8e323a4f7f904b6d6f5057ceaa28a81570af26/687474703a2f2f692e696d6775722e636f6d2f327a4277496c776c2e706e67" width="250" height="490">
 
 Effect
 ======================
