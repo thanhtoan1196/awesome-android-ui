@@ -14,20 +14,14 @@ No. | Name | Demo
 10| [SwipeSelector](https://github.com/roughike/SwipeSelector) | <img src="https://raw.githubusercontent.com/roughike/SwipeSelector/master/demo_two.gif" width="250" height="490">
 11| [MaterialLeanBack](https://github.com/florent37/MaterialLeanBack) | <img src="https://raw.githubusercontent.com/florent37/MaterialLeanBack/master/screens/sample_2.gif" width="250" height="490">
 12| [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | <img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="250" height="490">
-13| [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) | ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
-14| [BubbleTab](https://github.com/florent37/BubbleTab) | <img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/video.gif" width="250" height="490">
-15| [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) | <img src="https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545" width="250" height="490">
-16| [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) | <img src="https://camo.githubusercontent.com/975bbf6ca1f9440cd347b0afd0693d4ae5cee1e2/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363565770336547563464454a544e324d" width="250" height="490">
-17| [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) | <img src="https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif" width="250" height="490">
-18| [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) | ![](https://github.com/nshmura/RecyclerTabLayout/raw/master/art/years.gif)
-19| [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) | <img src="https://github.com/lsjwzh/RecyclerViewPager/raw/master/vertical.gif" width="250" height="490">
-20| [HollyViewPager](https://github.com/florent37/HollyViewPager) | <img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="250" height="490">
-21| [freepager](https://github.com/alexzaitsev/freepager) | <img src="https://github.com/alexzaitsev/freepager/raw/master/04.gif" width="250" height="490">
-22| [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) | ![](https://camo.githubusercontent.com/a164b67f7eec5d45926f827021983b0d65fac0ba/687474703a2f2f692e696d6775722e636f6d2f3079474d5379452e676966)
-23| [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager) | <img src="https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif" width="250" height="490">
-24| [UltraViewPager](https://github.com/alibaba/UltraViewPager) | <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="250" height="490">
-25| [ExpandingPager](https://github.com/qs-lll/ExpandingPager) | <img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="250" height="490">
-26| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
+13| [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) | <img src="https://github.com/lsjwzh/RecyclerViewPager/raw/master/vertical.gif" width="250" height="490">
+14| [HollyViewPager](https://github.com/florent37/HollyViewPager) | <img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="250" height="490">
+15| [freepager](https://github.com/alexzaitsev/freepager) | <img src="https://github.com/alexzaitsev/freepager/raw/master/04.gif" width="250" height="490">
+16| [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) | ![](https://camo.githubusercontent.com/a164b67f7eec5d45926f827021983b0d65fac0ba/687474703a2f2f692e696d6775722e636f6d2f3079474d5379452e676966)
+17| [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager) | <img src="https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif" width="250" height="490">
+18| [UltraViewPager](https://github.com/alibaba/UltraViewPager) | <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="250" height="490">
+19| [ExpandingPager](https://github.com/qs-lll/ExpandingPager) | <img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="250" height="490">
+20| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
 
 Indicator
 ======================
