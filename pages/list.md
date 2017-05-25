@@ -7,9 +7,9 @@ No. | Name | Demo
 3| [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | https://github.com/Malinskiy/SuperRecyclerView
 4| [advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) | (https://www.youtube.com/watch?feature=player_embedded&v=S7cSwMArjUQ
 5| [DynamicRecyclerView](https://github.com/ismoli/DynamicRecyclerView) | (https://github.com/ismoli/DynamicRecyclerView
-6| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | <img src="https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966" width="250" height="490">
-7| [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) | https://github.com/TonicArtos/SuperSLiM
-8| [epoxy](https://github.com/airbnb/epoxy) | https://github.com/airbnb/epoxy
+6| [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) | https://github.com/TonicArtos/SuperSLiM
+7| [epoxy](https://github.com/airbnb/epoxy) | https://github.com/airbnb/epoxy
+8| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | <img src="https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966" width="250" height="490">
 9| [XRecyclerView](https://github.com/jianghejie/XRecyclerView) | <img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="250" height="490">
 10| [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) | ![](https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg)
 11| [PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter) | <img src="https://camo.githubusercontent.com/2f855790b1082fe1a6c9cb417a0866106bbe0597/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630343132313935343035383637" width="250" height="490">
@@ -22,11 +22,11 @@ Effect
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [BeautifulParallax](https://github.com/florent37/BeautifulParallax) | <img src="https://github.com/florent37/BeautifulParallax/raw/master/screens/giphy.gif" width="250" height="490">
+1| [discrollview](https://github.com/flavienlaurent/discrollview) | https://www.youtube.com/watch?v=FGYaweSP3sA&feature=youtu.be
 2| [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) | <img src="https://raw.githubusercontent.com/kanytu/android-parallax-recycleview/master/screenshots/screenshot.gif" width="250" height="490">
 3| [PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView) | <img src="https://raw.githubusercontent.com/dinuscxj/PullZoomRecyclerView/master/Preview/PullZoomHeader.gif?width=300" width="250" height="490">
 4| [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) | <img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/list_demo.gif" width="250" height="490">
-5| [discrollview](https://github.com/flavienlaurent/discrollview) | https://www.youtube.com/watch?v=FGYaweSP3sA&feature=youtu.be
+5| [BeautifulParallax](https://github.com/florent37/BeautifulParallax) | <img src="https://github.com/florent37/BeautifulParallax/raw/master/screens/giphy.gif" width="250" height="490">
 
 Decoration
 ======================
