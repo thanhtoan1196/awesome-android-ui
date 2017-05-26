@@ -71,5 +71,4 @@ Other
 No. | Name | Demo
 :---: | :---: | ---
 1| [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) | <img src="https://camo.githubusercontent.com/e30f6694c99cc4404b7654f74e3d1598665792ea/68747470733a2f2f6c68342e67677068742e636f6d2f787a6b62334e35384c48325473625f6747733075335f783831564f4c776c6863702d6634707a5f73525f69523376414b58664a6f416377426a4e37344c767a70564c453d683930302d7277" width="250" height="490">
-2| [MaterialRecents](https://github.com/ZieIony/MaterialRecents) | <img src="https://github.com/ZieIony/MaterialRecents/raw/master/images/recents.gif" width="250" height="490">
-3| [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) | <img src="https://github.com/kHRYSTAL/CircleRecyclerView/raw/master/screenshot/screenshot1.gif" width="250" height="490">
+2| [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) | <img src="https://github.com/kHRYSTAL/CircleRecyclerView/raw/master/screenshot/screenshot1.gif" width="250" height="490">

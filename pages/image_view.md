@@ -28,9 +28,8 @@ No. | Name | Demo
 24| [LowPoly](https://github.com/CoXier/LowPoly) | ![](https://github.com/CoXier/LowPoly/raw/master/art/captain.jpg)
 25| [motion](https://github.com/nvanbenschoten/motion) | ![](https://github.com/nvanbenschoten/motion/raw/master/motionImage.png)
 26| [PaletteImageView](https://github.com/DingMouRen/PaletteImageView) | ![](https://github.com/DingMouRen/PaletteImageView/raw/master/imgs/img.gif)
-27| [PhotoView](https://github.com/chrisbanes/PhotoView) | https://github.com/chrisbanes/PhotoView
-28| [ShadowImageView](https://github.com/yingLanNull/ShadowImageView) | ![](https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png)
-29| [AnchorImageView](https://github.com/jcodeing/AnchorImageView) | <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.jpg" width="250" height="490">
+27| [ShadowImageView](https://github.com/yingLanNull/ShadowImageView) | ![](https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png)
+28| [AnchorImageView](https://github.com/jcodeing/AnchorImageView) | <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.jpg" width="250" height="490">
 
 Viewer
 ======================

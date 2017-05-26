@@ -4,18 +4,19 @@ No. | Name | Demo
 :---: | :---: | ---
 1| [ShineButton](https://github.com/ChadCSong/ShineButton) | ![](https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif)
 2| [TumblrLikeAnimView](https://github.com/alex5241/TumblrLikeAnimView) | <img src="https://github.com/alex5241/TumblrLikeAnimView/raw/master/Art/tumblr.gif" width="250" height="490">
-3| [Lottie for Android](https://github.com/airbnb/lottie-android) | ![](https://github.com/airbnb/lottie-android/raw/master/gifs/Example1.gif)
-4| [android-circlebutton](https://github.com/markushi/android-circlebutton) |  ![](https://github.com/markushi/android-circlebutton/raw/master/example/example.gif)
-5| [SimpleRatingView](https://github.com/xiprox/SimpleRatingView) | <img src="https://cloud.githubusercontent.com/assets/2550945/5184090/c143e70e-74b4-11e4-8bfa-a7ec17416d05.gif" width="250" height="490">
-5| [PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton) | <img src="https://github.com/recruit-lifestyle/PlayPauseButton/raw/master/sc/animation.gif" width="250" height="490">
-6| [Cross View](https://github.com/cdflynn/crossview) | ![](https://github.com/cdflynn/crossview/raw/master/sample/images/cross_btn.gif?raw=true)
-7| [RaiflatButton](https://github.com/rubensousa/RaiflatButton) | ![](https://github.com/rubensousa/RaiflatButton/raw/master/screens/demo.gif)
-8| [AnimShopButton](https://github.com/mcxtzhang/AnimShopButton) | <img src="https://github.com/mcxtzhang/AnimShopButton/raw/master/gif/new.gif" width="250" height="490">
-9| [fancybuttons](https://github.com/medyo/fancybuttons) | ![](https://github.com/medyo/Fancybuttons/raw/master/resources/cover.png)
-10| [android-flat-button](https://github.com/hoang8f/android-flat-button) |  <img src="https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif" width="250" height="490">
-11| [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) |  <img src="https://camo.githubusercontent.com/51755d59ed6fd53158a0d84696e6d184c3a6f4d5/68747470733a2f2f7261772e6769746875622e636f6d2f426561726465642d48656e2f416e64726f69642d426f6f7473747261702f6d61737465722f696d616765732f626f6f7473747261705f627574746f6e2e706e67" width="250" height="490">
-12| [SparkButton](https://github.com/varunest/SparkButton) |  <img src="https://github.com/varunest/SparkButton/raw/master/art/showcase.gif" width="250" height="490">
-13| [ThumbUp](https://github.com/ldoublem/ThumbUp) |  <img src="https://github.com/ldoublem/ThumbUp/raw/master/screenShot/shot.gif" width="250" height="490">
+3| [SparkButton](https://github.com/varunest/SparkButton) |  <img src="https://github.com/varunest/SparkButton/raw/master/art/showcase.gif" width="250" height="490">
+4| [ThumbUp](https://github.com/ldoublem/ThumbUp) |  <img src="https://github.com/ldoublem/ThumbUp/raw/master/screenShot/shot.gif" width="250" height="490">
+5| [Lottie for Android](https://github.com/airbnb/lottie-android) | ![](https://github.com/airbnb/lottie-android/raw/master/gifs/Example1.gif)
+6| [FloatingView](https://github.com/UFreedom/FloatingView) | <img src="https://github.com/UFreedom/FloatingView/raw/master/images/demo.gif" width="250" height="490">
+7| [android-circlebutton](https://github.com/markushi/android-circlebutton) |  ![](https://github.com/markushi/android-circlebutton/raw/master/example/example.gif)
+8| [SimpleRatingView](https://github.com/xiprox/SimpleRatingView) | <img src="https://cloud.githubusercontent.com/assets/2550945/5184090/c143e70e-74b4-11e4-8bfa-a7ec17416d05.gif" width="250" height="490">
+9| [PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton) | <img src="https://github.com/recruit-lifestyle/PlayPauseButton/raw/master/sc/animation.gif" width="250" height="490">
+10| [Cross View](https://github.com/cdflynn/crossview) | ![](https://github.com/cdflynn/crossview/raw/master/sample/images/cross_btn.gif?raw=true)
+11| [RaiflatButton](https://github.com/rubensousa/RaiflatButton) | <img src="https://github.com/rubensousa/RaiflatButton/raw/master/screens/demo.gif" width="250" height="490">
+12| [AnimShopButton](https://github.com/mcxtzhang/AnimShopButton) | <img src="https://github.com/mcxtzhang/AnimShopButton/raw/master/gif/new.gif" width="250" height="490">
+13| [fancybuttons](https://github.com/medyo/fancybuttons) | ![](https://github.com/medyo/Fancybuttons/raw/master/resources/cover.png)
+14| [android-flat-button](https://github.com/hoang8f/android-flat-button) |  <img src="https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif" width="250" height="490">
+15| [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) |  <img src="https://camo.githubusercontent.com/51755d59ed6fd53158a0d84696e6d184c3a6f4d5/68747470733a2f2f7261772e6769746875622e636f6d2f426561726465642d48656e2f416e64726f69642d426f6f7473747261702f6d61737465722f696d616765732f626f6f7473747261705f627574746f6e2e706e67" width="250" height="490">
 
 FAB
 ======================
