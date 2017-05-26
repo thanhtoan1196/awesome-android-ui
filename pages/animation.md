@@ -19,6 +19,7 @@ No. | Name | Demo
 4| [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) | <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="250" height="490">
 5| [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="250" height="490">
 6| [DecentBanner](https://github.com/chengdazhi/DecentBanner) | ![](https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif)
+7| [LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter) | <img src="https://github.com/rakshakhegde/LastPagerAdapter/raw/master/ART/lastpageradapter-demo.gif" width="250" height="490">
 
 Drawer
 ======================
@@ -35,6 +36,14 @@ No. | Name | Demo
 2| [Article-Details-Transition-Example](https://github.com/Jaouan/Article-Details-Transition-Example) | <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="250" height="490">
 3| [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) | <img src="https://github.com/ImmortalZ/TransitionHelper/raw/master/screenshots/recyclerview.gif" width="250" height="490">
 4| [CircularAnim](https://github.com/XunMengWinter/CircularAnim) | ![](https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966 =200x250)
+
+Background
+======================
+No. | Name | Demo
+:---: | :---: | ---
+1| [Grav](https://github.com/glomadrian/Grav) | <img src="https://raw.githubusercontent.com/glomadrian/Grav/master/art/login.gif" width="250" height="490">
+2| [VusikView](https://github.com/dynamitechetan/VusikView) | <img src="https://github.com/dynamitechetan/VusikView/raw/master/screenshot/screen1.gif" width="250" height="490">
+
 
 Ripple
 ======================
@@ -59,8 +68,8 @@ No. | Name | Demo
 3| [ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator) | https://github.com/blipinsk/ViewPropertyObjectAnimator
 4| [RxAnimations](https://github.com/0ximDigital/RxAnimations) | https://github.com/0ximDigital/RxAnimations
 5| [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | https://www.youtube.com/watch?v=qb63BYjTebU
-6| [TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | <img src="https://github.com/thunderrise/android-TNRAnimationHelper/raw/master/images/flip.gif" width="250" height="490">
-7| [Grav](https://github.com/glomadrian/Grav) | <img src="https://raw.githubusercontent.com/glomadrian/Grav/master/art/login.gif" width="250" height="490">
+6| [SensorAnnotations](https://github.com/dvoiss/SensorAnnotations) | https://github.com/dvoiss/SensorAnnotations
+7| [TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | <img src="https://github.com/thunderrise/android-TNRAnimationHelper/raw/master/images/flip.gif" width="250" height="490">
 8| [Particle](https://github.com/JeasonWong/Particle) | <img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="250" height="490">
 9| [animate](https://github.com/hitherejoe/animate) | <img src="https://github.com/hitherejoe/animate/raw/master/images/object_animator.gif" width="250" height="490">
 10| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | <img src="https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966" width="250" height="490">
@@ -76,10 +85,13 @@ No. | Name | Demo
 20| [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | <img src="https://camo.githubusercontent.com/b22b160910884cdd5984b67864b5786e4d34a793/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f36313064633033346a77316568757a6f756c346838673230623030676d6839732e676966" width="250" height="490">
 21| [android-pathview](https://github.com/geftimov/android-pathview) | <img src="https://github.com/geftimov/android-pathview/raw/master/art/settings.gif" width="250" height="490">
 22| [RoadRunner](https://github.com/glomadrian/RoadRunner) | <img src="https://github.com/glomadrian/RoadRunner/raw/master/art/citylong.gif" width="250" height="490">
-23| [ArcAnimator](https://github.com/asyl/ArcAnimator) | <img src="https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966" width="250" height="490">
-24| [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) | <img src="https://github.com/jaredrummler/AnimatedSvgView/raw/master/demo/demo.gif" width="250" height="490">
-25| [CubeGrid](https://github.com/alighters/CubeGrid) | <img src="https://camo.githubusercontent.com/9caee57298ef7c0ba92044faa33b7860f99fbf85/687474703a2f2f3778707974682e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f63756265312e676966" width="250" height="490">
-26| [stencil](https://github.com/thoughtbot/stencil) | <img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="250" height="490">
-27| [SimpleTargetView](https://github.com/anastr/SimpleTargetView) | <img src="https://github.com/anastr/SimpleTargetView/raw/master/images/gif0.gif" width="250" height="490">
-28| [FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator) | <img src="https://github.com/MasayukiSuda/FPSAnimator/raw/master/art/spriteSheet.gif" width="250" height="490">
-29| [EmojiRain](https://github.com/Luolc/EmojiRain) | <img src="https://raw.githubusercontent.com/Luolc/EmojiRain/master/others/dropping-demo.gif" width="250" height="490">
+23| [WindView](https://github.com/AhmadNemati/WindView) | <img src="https://raw.githubusercontent.com/AhmadNemati/WindView/master/art/screen.gif" width="250" height="490">
+24| [ArcAnimator](https://github.com/asyl/ArcAnimator) | <img src="https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966" width="250" height="490">
+25| [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) | <img src="https://github.com/jaredrummler/AnimatedSvgView/raw/master/demo/demo.gif" width="250" height="490">
+26| [CubeGrid](https://github.com/alighters/CubeGrid) | <img src="https://camo.githubusercontent.com/9caee57298ef7c0ba92044faa33b7860f99fbf85/687474703a2f2f3778707974682e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f63756265312e676966" width="250" height="490">
+27| [stencil](https://github.com/thoughtbot/stencil) | <img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="250" height="490">
+28| [SimpleTargetView](https://github.com/anastr/SimpleTargetView) | <img src="https://github.com/anastr/SimpleTargetView/raw/master/images/gif0.gif" width="250" height="490">
+29| [FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator) | <img src="https://github.com/MasayukiSuda/FPSAnimator/raw/master/art/spriteSheet.gif" width="250" height="490">
+30| [EmojiRain](https://github.com/Luolc/EmojiRain) | <img src="https://raw.githubusercontent.com/Luolc/EmojiRain/master/others/dropping-demo.gif" width="250" height="490">
+31| [ParticlesDrawable](https://github.com/Doctoror/ParticlesDrawable) | <img src="https://github.com/Doctoror/ParticlesDrawable/raw/master/screenshots/default.gif?raw=true" width="250" height="490">
+32| [SIRIWaveView](https://github.com/alexgomes09/SIRIWaveView) | <img src="https://github.com/alexgomes09/SIRIWaveView/raw/master/captures/screen_capture.gif" width="250" height="490">

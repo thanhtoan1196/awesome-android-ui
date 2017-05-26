@@ -9,3 +9,5 @@ No. | Name | Demo
 5| [DrawView](https://github.com/ByoxCode/DrawView) | <img src="https://github.com/ByoxCode/DrawView/raw/master/2016.11.10_18.00.25.gif" width="250" height="490">
 6| [PolygonDrawingUtil](https://github.com/stkent/PolygonDrawingUtil) | <img src="https://github.com/stkent/PolygonDrawingUtil/raw/master/assets/demo.gif" width="250" height="490">
 7| [Isometric](https://github.com/FabianTerhorst/Isometric) | ![](https://github.com/FabianTerhorst/Isometric/raw/master/lib/screenshots/io.fabianterhorst.isometric.screenshot.IsometricViewTest_doScreenshotThree.png?raw=true)
+8| [BrushView](https://github.com/Andreu35/BrushView) | ![](https://github.com/Andreu35/BrushView/raw/master/screenshots/Screenshot_20170202-171746.png)
+9| [ProMosaic](https://github.com/dawsonice/ProMosaic) | <img src="https://camo.githubusercontent.com/f4fe8cefb7e064171eb41204ceced8c3a59a3cb4/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3730343839353631677731656a697439686f3361346a323075303168637464762e6a7067" width="250" height="490">

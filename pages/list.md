@@ -9,13 +9,18 @@ No. | Name | Demo
 5| [DynamicRecyclerView](https://github.com/ismoli/DynamicRecyclerView) | (https://github.com/ismoli/DynamicRecyclerView
 6| [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) | https://github.com/TonicArtos/SuperSLiM
 7| [epoxy](https://github.com/airbnb/epoxy) | https://github.com/airbnb/epoxy
-8| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | <img src="https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966" width="250" height="490">
-9| [XRecyclerView](https://github.com/jianghejie/XRecyclerView) | <img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="250" height="490">
-10| [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) | ![](https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg)
-11| [PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter) | <img src="https://camo.githubusercontent.com/2f855790b1082fe1a6c9cb417a0866106bbe0597/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630343132313935343035383637" width="250" height="490">
-12| [recyclerviewhelper](https://github.com/nisrulz/recyclerviewhelper) | <img src="https://github.com/nisrulz/recyclerviewhelper/raw/develop/img/walkthrough1.gif" width="250" height="490">
-13| [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) | ![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
-14| [FastAdapter](https://github.com/mikepenz/FastAdapter) | ![](https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg)
+8| [Renderers](https://github.com/pedrovgs/Renderers) | https://github.com/pedrovgs/Renderers
+9| [AutoAdapter](https://github.com/Zuluft/AutoAdapter) | https://github.com/Zuluft/AutoAdapter
+10| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | <img src="https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966" width="250" height="490">
+11| [XRecyclerView](https://github.com/jianghejie/XRecyclerView) | <img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="250" height="490">
+12| [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) | ![](https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg)
+13| [PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter) | <img src="https://camo.githubusercontent.com/2f855790b1082fe1a6c9cb417a0866106bbe0597/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630343132313935343035383637" width="250" height="490">
+14| [recyclerviewhelper](https://github.com/nisrulz/recyclerviewhelper) | <img src="https://github.com/nisrulz/recyclerviewhelper/raw/develop/img/walkthrough1.gif" width="250" height="490">
+15| [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) | ![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
+16| [FastAdapter](https://github.com/mikepenz/FastAdapter) | ![](https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg)
+17| [InfiniteRecyclerView](https://github.com/iamtheib/InfiniteRecyclerView) | ![](https://github.com/iamtheib/InfiniteRecyclerView/raw/master/assets/demo.gif)
+18| [Circular-Layout-Manager](https://github.com/kapil93/Circular-Layout-Manager) | <img src="https://camo.githubusercontent.com/d898e1d80b1d3bd13ca7229e5ecb48b9e755fd55/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f706f6c792d73637265656e73686f74732e616e67656c2e636f2f50726f6a6563742f31332f3334303434322f36616362336465316463343462383263616631636466613865383736333831302d6f726967696e616c2e706e67" width="250" height="490">
+19| [AutoplayVideos](https://github.com/Krupen/AutoplayVideos) | ![](https://raw.githubusercontent.com/Krupen/AutoplayVideos/master/AutoPlayVideos%20Demo.gif)
 
 Effect
 ======================

@@ -10,3 +10,4 @@ No. | Name | Demo
 6| [ColorSeekBar](https://github.com/rtugeek/ColorSeekBar) | <img src="https://github.com/rtugeek/ColorSeekBar/raw/master/screenshot/screenshot.gif" width="250" height="490">
 7| [SeekArc](https://github.com/neild001/SeekArc) | ![](https://github.com/neild001/SeekArc/raw/master/raw/arc_sweeps.png)
 8| [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) | <img src="https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966" width="250" height="490">
+9| [circularseekbar](https://github.com/devadvance/circularseekbar) | ![](https://camo.githubusercontent.com/6e3cb8d77ac5d539d8577613d65e55fbce5cea01/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d314a456558524e666859632f556b69795f6d7978636f492f41414141414141414a44302f6b386e474447786667376b2f773238312d683530302d6e6f2f312e706e67)

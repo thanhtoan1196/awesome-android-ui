@@ -22,6 +22,8 @@ No. | Name | Demo
 18| [ColorArcProgerssBar](https://github.com/Shinelw/ColorArcProgressBar) | <img src="https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif" width="250" height="490">
 19| [GradeProgressView](https://github.com/niniloveyou/GradeProgressView) | <img src="https://github.com/niniloveyou/GradeProgressView/raw/master/gradeProgressView.gif" width="250" height="490">
 20| [circular-slider-android](https://github.com/milosmns/circular-slider-android) | <img src="https://raw.githubusercontent.com/milosmns/circular-slider-android/master/slider/src/images/CircularSlider-Image_downscaled.png" width="250" height="490">
+21| [ProgressRingView](https://github.com/Flepsik/ProgressRingView) | <img src="https://cloud.githubusercontent.com/assets/7210975/24792164/8822c0c4-1b85-11e7-811f-9725dd28d116.jpg" width="250" height="490">
+22| [ProProgressViews](https://github.com/DamanSingh4321/ProProgressViews) | ![](https://github.com/DamanSingh4321/ProProgressViews/raw/master/app/screenshot.gif?raw=true)
 
 Loading
 ======================
@@ -54,18 +56,23 @@ No. | Name | Demo
 26| [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) | <img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="250" height="490">
 27| [WaveLoading](https://github.com/race604/WaveLoading) | <img src="https://github.com/race604/WaveLoading/raw/master/screenshots/screenshot.gif" width="250" height="490">
 28| [WaveView](https://github.com/john990/WaveView) | <img src="https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966" width="250" height="490">
-29| [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView) | <img src="https://github.com/niniloveyou/BounceLoadingView/raw/master/bounceLoadingView.gif" width="250" height="490">
-30| [SmileyLoadingView](https://github.com/andyxialm/SmileyLoadingView) | <img src="https://github.com/andyxialm/SmileyLoadingView/raw/master/art/screenshot.gif?raw=true" width="250" height="490">
-31| [SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) | <img src="https://raw.githubusercontent.com/jeasonwong/SlackLoadingView/master/screenshots/slack.gif" width="250" height="490">
-32| [LoadingView](https://github.com/ldoublem/LoadingView) | <img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="250" height="490">
-33| [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | ![](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif)
-34| [SpinnerLoader](https://github.com/fenjuly/SpinnerLoader) | <img src="https://camo.githubusercontent.com/83b3be560607302f58516826b4fcf73e2b4eb814/687474703a2f2f692e696d6775722e636f6d2f71464e526b484d2e676966" width="250" height="490">
-35| [WhorlView](https://github.com/Kyson/WhorlView) | <img src="https://raw.githubusercontent.com/Kyson/WhorlView/master/art/whorl_progress_showcase.gif" width="250" height="490">
-36| [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) | <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/animation.gif" width="250" height="490">
-37| [CircleProgress](https://github.com/Fichardu/CircleProgress) | <img src="https://github.com/Fichardu/CircleProgress/raw/master/art/progress.gif" width="250" height="490">
-38| [MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation) | ![](https://github.com/KeepSafe/MultiStateAnimation/raw/master/docs/images/demo_1.gif)
-39| [ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView) | <img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif?width=300" width="250" height="490">
-40| [pageloader](https://github.com/arieridwan8/pageloader) | <img src="https://github.com/arieridwan8/pageloader/raw/master/screenshots/demo.gif" width="250" height="490">
+29| [FillableLoaders](https://github.com/poolqf/FillableLoaders) | ![](https://github.com/poolqf/FillableLoaders/raw/master/Images/progress.gif)
+30| [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView) | <img src="https://github.com/niniloveyou/BounceLoadingView/raw/master/bounceLoadingView.gif" width="250" height="490">
+31| [SmileyLoadingView](https://github.com/andyxialm/SmileyLoadingView) | <img src="https://github.com/andyxialm/SmileyLoadingView/raw/master/art/screenshot.gif?raw=true" width="250" height="490">
+32| [SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) | <img src="https://raw.githubusercontent.com/jeasonwong/SlackLoadingView/master/screenshots/slack.gif" width="250" height="490">
+33| [LoadingView](https://github.com/ldoublem/LoadingView) | <img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="250" height="490">
+34| [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | ![](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif)
+35| [SpinnerLoader](https://github.com/fenjuly/SpinnerLoader) | <img src="https://camo.githubusercontent.com/83b3be560607302f58516826b4fcf73e2b4eb814/687474703a2f2f692e696d6775722e636f6d2f71464e526b484d2e676966" width="250" height="490">
+36| [WhorlView](https://github.com/Kyson/WhorlView) | <img src="https://raw.githubusercontent.com/Kyson/WhorlView/master/art/whorl_progress_showcase.gif" width="250" height="490">
+37| [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) | <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/animation.gif" width="250" height="490">
+38| [CircleProgress](https://github.com/Fichardu/CircleProgress) | <img src="https://github.com/Fichardu/CircleProgress/raw/master/art/progress.gif" width="250" height="490">
+39| [MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation) | ![](https://github.com/KeepSafe/MultiStateAnimation/raw/master/docs/images/demo_1.gif)
+40| [ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView) | <img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif?width=300" width="250" height="490">
+41| [pageloader](https://github.com/arieridwan8/pageloader) | <img src="https://github.com/arieridwan8/pageloader/raw/master/screenshots/demo.gif" width="250" height="490">
+42| [WaitingDots](https://github.com/tajchert/WaitingDots) | ![](https://raw.githubusercontent.com/tajchert/WaitingDots/master/images/dotsLoadingAnimation.gif)
+43| [tinglingsquares](https://github.com/droidchef/tinglingsquares) | ![](https://raw.githubusercontent.com/ishan1604/tinglingsquares/master/media/demo.gif)
+44| [mkloader](https://github.com/nntuyen/mkloader) | ![](https://github.com/nntuyen/mkloader/raw/master/screenshot/screenshot.gif)
+45| [AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator) | ![](https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/AnimatedLoadingIndicator.gif)
 
 Download
 ======================

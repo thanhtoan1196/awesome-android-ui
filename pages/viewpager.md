@@ -36,3 +36,4 @@ No. | Name | Demo
 7| [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | <img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="250" height="490">
 8| [PodSLider](https://github.com/bhargavms/PodSLider) | ![](https://github.com/bhargavms/PodSLider/raw/master/assets/gifs/ezgif.com-gif-maker.gif?raw=true)
 9| [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) | ![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif)
+10| [OffsetAnimator](https://github.com/russelarms/OffsetAnimator) | ![](https://github.com/russelarms/OffsetAnimator/raw/master/preview/sample_video.gif)

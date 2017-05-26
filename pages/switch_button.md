@@ -10,3 +10,4 @@ No. | Name | Demo
 6| [ToggleButton](https://github.com/zcweng/ToggleButton) | ![](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)
 7| [material-animated-switch](https://github.com/glomadrian/material-animated-switch) | <img src="https://github.com/glomadrian/material-animated-switch/raw/master/art/all.png" width="250" height="490">
 8| [SwitchButton](https://github.com/xiaopansky/SwitchButton) | <img src="https://github.com/xiaopansky/SwitchButton/raw/master/docs/sample.gif" width="250" height="490">
+9| [StickySwitch](https://github.com/GwonHyeok/StickySwitch) | ![](https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif)

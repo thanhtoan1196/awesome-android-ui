@@ -3,7 +3,7 @@ ImageView
 No. | Name | Demo
 :---: | :---: | ---
 1| [subsampling-scale](https://github.com/davemorrissey/subsampling-scale-image-view) | https://github.com/davemorrissey/subsampling-scale-image-view
-2| [PhotoView](https://github.com/chrisbanes/PhotoView) | https://github.com/davemorrissey/subsampling-scale-image-view
+2| [PhotoView](https://github.com/chrisbanes/PhotoView) | https://github.com/chrisbanes/PhotoView
 3| [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) | https://github.com/chrisbanes/PhotoView
 4| [android-gpuimage](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage
 5| [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | https://github.com/MikeOrtiz/TouchImageView
@@ -35,15 +35,16 @@ Viewer
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [PhotoView](https://github.com/bm-x/PhotoView) | <img src="https://github.com/bm-x/PhotoView/raw/master/demo2.gif" width="250" height="490">
-2| [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) | <img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="250" height="490">
-3| [GestureViews](https://github.com/alexvasilkov/GestureViews) | <img src="https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif" width="250" height="490">
-4| [BigImageViewer](https://github.com/Piasy/BigImageViewer) | <img src="https://github.com/Piasy/BigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif" width="250" height="490">
-5| [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | <img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" width="250" height="490">
-6| [DraggableFlipView](https://github.com/ssk5460/DraggableFlipView) | <img src="https://github.com/ssk5460/DraggableFlipView/raw/master/art/demo.gif" width="250" height="490">
-7| [WindowView](https://github.com/justasm/WindowView) | <img src="https://github.com/justasm/WindowView/raw/master/sample/sample_in_action.gif" width="250" height="490">
-8| [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) | <img src="https://github.com/pengjianbo/GalleryFinal/raw/master/images/gallery_edit.jpg" width="250" height="490">
-9| [Rotatable](https://github.com/yayaa/Rotatable) | ![](https://camo.githubusercontent.com/1588aa51f2fe10b3b240b32b48087215794d5198/687474703a2f2f796179616e64726f69642e636f6d2f646174612f6769746875625f6c6962726172792f726f74617461626c652f726f74617461626c652e676966)
+1| [GIFView](https://github.com/Gavras/GIFView) | https://github.com/Gavras/GIFView
+2| [PhotoView](https://github.com/bm-x/PhotoView) | <img src="https://github.com/bm-x/PhotoView/raw/master/demo2.gif" width="250" height="490">
+3| [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) | <img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="250" height="490">
+4| [GestureViews](https://github.com/alexvasilkov/GestureViews) | <img src="https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif" width="250" height="490">
+5| [BigImageViewer](https://github.com/Piasy/BigImageViewer) | <img src="https://github.com/Piasy/BigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif" width="250" height="490">
+6| [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | <img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" width="250" height="490">
+7| [DraggableFlipView](https://github.com/ssk5460/DraggableFlipView) | <img src="https://github.com/ssk5460/DraggableFlipView/raw/master/art/demo.gif" width="250" height="490">
+8| [WindowView](https://github.com/justasm/WindowView) | <img src="https://github.com/justasm/WindowView/raw/master/sample/sample_in_action.gif" width="250" height="490">
+9| [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) | <img src="https://github.com/pengjianbo/GalleryFinal/raw/master/images/gallery_edit.jpg" width="250" height="490">
+10| [Rotatable](https://github.com/yayaa/Rotatable) | ![](https://camo.githubusercontent.com/1588aa51f2fe10b3b240b32b48087215794d5198/687474703a2f2f796179616e64726f69642e636f6d2f646174612f6769746875625f6c6962726172792f726f74617461626c652f726f74617461626c652e676966)
 
 Shape
 ======================
