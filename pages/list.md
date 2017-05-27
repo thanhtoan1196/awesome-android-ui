@@ -21,6 +21,7 @@ No. | Name | Demo
 17| [InfiniteRecyclerView](https://github.com/iamtheib/InfiniteRecyclerView) | ![](https://github.com/iamtheib/InfiniteRecyclerView/raw/master/assets/demo.gif)
 18| [Circular-Layout-Manager](https://github.com/kapil93/Circular-Layout-Manager) | <img src="https://camo.githubusercontent.com/d898e1d80b1d3bd13ca7229e5ecb48b9e755fd55/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f706f6c792d73637265656e73686f74732e616e67656c2e636f2f50726f6a6563742f31332f3334303434322f36616362336465316463343462383263616631636466613865383736333831302d6f726967696e616c2e706e67" width="250" height="490">
 19| [AutoplayVideos](https://github.com/Krupen/AutoplayVideos) | ![](https://raw.githubusercontent.com/Krupen/AutoplayVideos/master/AutoPlayVideos%20Demo.gif)
+20| [DiscrollView2](https://github.com/egek92/DiscrollView2) | <img src="https://camo.githubusercontent.com/56d7806855aa6593a7093b2414e452bdba29a151/68747470733a2f2f6769616e742e6766796361742e636f6d2f46656d696e696e655761726c696b654571756573747269616e2e676966" width="250" height="490">
 
 Effect
 ======================

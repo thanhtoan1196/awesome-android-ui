@@ -23,3 +23,4 @@ No. | Name | Demo
 19| [calendar-widget](https://github.com/plusonelabs/calendar-widget) | ![](https://github.com/plusonelabs/calendar-widget/raw/master/assets/screenshots/widget-device.png)
 20| [smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android) | <img src="https://camo.githubusercontent.com/32f13ca5e698e3a40fa04b4f83df9240dbbee063/687474703a2f2f692e696d6775722e636f6d2f5835336b6c555a2e6769663f31" width="250" height="490">
 21| [android-calendar-card](https://github.com/kenumir/android-calendar-card) | ![](https://github.com/kenumir/android-calendar-card/raw/master/calendar-card-sample/_work/device-2013-10-12-151801.png)
+22| [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar) | <img src="https://github.com/Mulham-Raee/Horizontal-Calendar/raw/master/art/demo.gif" width="250" height="490">

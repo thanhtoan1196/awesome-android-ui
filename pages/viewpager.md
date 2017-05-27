@@ -22,6 +22,8 @@ No. | Name | Demo
 18| [UltraViewPager](https://github.com/alibaba/UltraViewPager) | <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="250" height="490">
 19| [ExpandingPager](https://github.com/qs-lll/ExpandingPager) | <img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="250" height="490">
 20| [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
+21| [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | ![](https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png)
+22| [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) | ![](https://camo.githubusercontent.com/7b638f5e31b5cc79a7c06cbe12e2708514069f88/687474703a2f2f70726f6c69666963696e7465726163746976652e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031342f30342f706172616c6c61785f706c616e65745f64656d6f2e676966)
 
 Indicator
 ======================

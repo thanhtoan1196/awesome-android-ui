@@ -8,6 +8,7 @@ No. | Name | Demo
 4| [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) | ![](https://camo.githubusercontent.com/618b29ccb20fb2a69fe54d5cf43e3c9c81601052/68747470733a2f2f7261772e6769746875622e636f6d2f6c656f6c696e3331303134382f53686f72746375744261646765722f6d61737465722f73637265656e73686f74732f73735f73616d73756e672e706e67)
 5| [MiladBadgeView](https://github.com/miladheydari/MiladBadgeView) | <img src="https://github.com/miladheydari/MiladBadgeView/raw/master/capture/device-2016-09-22-174932.png" width="250" height="490">
 6| [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) | ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)
+7| [Badge](https://github.com/nekocode/Badge) | ![](https://github.com/nekocode/Badge/raw/master/art/attributes.png)
 
 Triangle Label
 ======================
