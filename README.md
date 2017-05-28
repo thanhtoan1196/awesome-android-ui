@@ -5,6 +5,7 @@ A curated list of awesome Android UI/UX libraries. Feel free to contrubute.
 ## Other Awesome List
 - [awesome-android](https://github.com/thanhtoan1196/awesome-android)
 - [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)
+- [awesome-android-tips](https://github.com/thanhtoan1196/awesome-android-tips)
 
 ## Index
 - [Introduce](pages/introduce.md)
