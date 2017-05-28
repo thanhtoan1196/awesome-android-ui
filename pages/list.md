@@ -72,6 +72,16 @@ No. | Name | Demo
 3| [ChatMessageView](https://github.com/bassaer/ChatMessageView) | <img src="https://github.com/bassaer/ChatMessageView/raw/master/images/screen_1_3_0.png" width="250" height="490">
 4| [SlyceMessaging](https://github.com/Slyce-Inc/SlyceMessaging) | ![](https://github.com/Slyce-Inc/SlyceMessaging/raw/master/sample-photos/example.png?raw=true)
 
+## Adapter
+======================
+No. | Name | Demo
+:---: | :---: | ---
+1| [SuperAdapter](https://github.com/byteam/SuperAdapter) | https://github.com/byteam/SuperAdapter
+2| [LastAdapter](https://github.com/nitrico/LastAdapter) | https://github.com/nitrico/LastAdapter
+3| [Renderers](https://github.com/pedrovgs/Renderers) | https://github.com/pedrovgs/Renderers
+4| [EfficientAdapter](https://github.com/StanKocken/EfficientAdapter) | https://github.com/StanKocken/EfficientAdapter
+5| [RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter) | https://github.com/ahmedrizwan/RxRecyclerAdapter
+
 Other
 ======================
 No. | Name | Demo
