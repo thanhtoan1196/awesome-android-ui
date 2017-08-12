@@ -2,76 +2,76 @@ RecyclerView
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | <img src="https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif" width="250" height="490">
-2| [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) | <img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="250" height="490"> 
-3| [spruce-android](https://github.com/willowtreeapps/spruce-android) | <img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="250" height="490"> 
-4| [ItemAnimators](https://github.com/mikepenz/ItemAnimators) | <img src="https://github.com/mikepenz/ItemAnimators/raw/develop/DEV/preview/Telecine_2016-01-09-19-01-46.gif" width="250" height="490">
-5| [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) | <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" width="250" height="490">
-6| [FiftyShadesOf](https://github.com/florent37/FiftyShadesOf) | <img src="https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/fadein.gif" width="250" height="490">
+01| [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | <img src="https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif" width="250" height="490">
+02| [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) | <img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="250" height="490"> 
+03| [spruce-android](https://github.com/willowtreeapps/spruce-android) | <img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="250" height="490"> 
+04| [ItemAnimators](https://github.com/mikepenz/ItemAnimators) | <img src="https://github.com/mikepenz/ItemAnimators/raw/develop/DEV/preview/Telecine_2016-01-09-19-01-46.gif" width="250" height="490">
+05| [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) | <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" width="250" height="490">
+06| [FiftyShadesOf](https://github.com/florent37/FiftyShadesOf) | <img src="https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/fadein.gif" width="250" height="490">
 
 Viewpager
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [ViewPagerAnimator](https://github.com/StylingAndroid/ViewPagerAnimator) | https://github.com/StylingAndroid/ViewPagerAnimator
-2| [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | https://www.youtube.com/watch?v=5zEOUWY9Hvo
-3| [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | <img src="https://github.com/DesarrolloAntonio/FragmentTransactionExtended/raw/master/fragmentTransactionExample/cap1.gif" width="250" height="490">
-4| [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) | <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="250" height="490">
-5| [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="250" height="490">
-6| [DecentBanner](https://github.com/chengdazhi/DecentBanner) | ![](https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif)
-7| [LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter) | <img src="https://github.com/rakshakhegde/LastPagerAdapter/raw/master/ART/lastpageradapter-demo.gif" width="250" height="490">
+01| [ViewPagerAnimator](https://github.com/StylingAndroid/ViewPagerAnimator) | https://github.com/StylingAndroid/ViewPagerAnimator
+02| [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | https://www.youtube.com/watch?v=5zEOUWY9Hvo
+03| [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | <img src="https://github.com/DesarrolloAntonio/FragmentTransactionExtended/raw/master/fragmentTransactionExample/cap1.gif" width="250" height="490">
+04| [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) | <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="250" height="490">
+05| [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="250" height="490">
+06| [DecentBanner](https://github.com/chengdazhi/DecentBanner) | ![](https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif)
+07| [LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter) | <img src="https://github.com/rakshakhegde/LastPagerAdapter/raw/master/ART/lastpageradapter-demo.gif" width="250" height="490">
 
 Drawer
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [android-transition](https://github.com/kaichunlin/android-transition) | <img src="https://github.com/kaichunlin/android-transition/raw/master/github/animation_transition.gif" width="250" height="490">
-2| [TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) | <img src="https://github.com/linfaxin/TransitionPlayer/raw/master/demo/demo_drawerlayout.gif" width="250" height="490">
+01| [android-transition](https://github.com/kaichunlin/android-transition) | <img src="https://github.com/kaichunlin/android-transition/raw/master/github/animation_transition.gif" width="250" height="490">
+02| [TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) | <img src="https://github.com/linfaxin/TransitionPlayer/raw/master/demo/demo_drawerlayout.gif" width="250" height="490">
  
 transition
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator) | <img src="https://github.com/LiveTyping/CannyViewAnimator/raw/master/readme_extra/u2020.gif?raw=true" width="250" height="490">
-2| [Article-Details-Transition-Example](https://github.com/Jaouan/Article-Details-Transition-Example) | <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="250" height="490">
-3| [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) | <img src="https://github.com/ImmortalZ/TransitionHelper/raw/master/screenshots/recyclerview.gif" width="250" height="490">
-4| [CircularAnim](https://github.com/XunMengWinter/CircularAnim) | ![](https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966 =200x250)
+01| [CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator) | <img src="https://github.com/LiveTyping/CannyViewAnimator/raw/master/readme_extra/u2020.gif?raw=true" width="250" height="490">
+02| [Article-Details-Transition-Example](https://github.com/Jaouan/Article-Details-Transition-Example) | <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="250" height="490">
+03| [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) | <img src="https://github.com/ImmortalZ/TransitionHelper/raw/master/screenshots/recyclerview.gif" width="250" height="490">
+04| [CircularAnim](https://github.com/XunMengWinter/CircularAnim) | ![](https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966 =200x250)
 
 Background
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [Grav](https://github.com/glomadrian/Grav) | <img src="https://raw.githubusercontent.com/glomadrian/Grav/master/art/login.gif" width="250" height="490">
-2| [VusikView](https://github.com/dynamitechetan/VusikView) | <img src="https://github.com/dynamitechetan/VusikView/raw/master/screenshot/screen1.gif" width="250" height="490">
+01| [Grav](https://github.com/glomadrian/Grav) | <img src="https://raw.githubusercontent.com/glomadrian/Grav/master/art/login.gif" width="250" height="490">
+02| [VusikView](https://github.com/dynamitechetan/VusikView) | <img src="https://github.com/dynamitechetan/VusikView/raw/master/screenshot/screen1.gif" width="250" height="490">
 
 
 Ripple
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [RippleView](https://github.com/siriscac/RippleView) | <img src="https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966" width="250" height="490">
-2| [RippleViews](https://github.com/xgc1986/RippleViews) | ![](https://github.com/xgc1986/RippleViews/raw/master/docs/img/DrawableHelperV212.gif)
+01| [RippleView](https://github.com/siriscac/RippleView) | <img src="https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966" width="250" height="490">
+02| [RippleViews](https://github.com/xgc1986/RippleViews) | ![](https://github.com/xgc1986/RippleViews/raw/master/docs/img/DrawableHelperV212.gif)
 
 Broken
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [BrokenView](https://github.com/zhanyongsheng/BrokenView) | <img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" width="250" height="490">
-2| [ExplosionField](https://github.com/tyrantgit/ExplosionField) | <img src="https://github.com/tyrantgit/ExplosionField/raw/master/explosionfield.gif" width="250" height="490">
+01| [BrokenView](https://github.com/zhanyongsheng/BrokenView) | <img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" width="250" height="490">
+02| [ExplosionField](https://github.com/tyrantgit/ExplosionField) | <img src="https://github.com/tyrantgit/ExplosionField/raw/master/explosionfield.gif" width="250" height="490">
 
 Other
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [rebound](https://github.com/facebook/rebound) | https://github.com/facebook/rebound
-2| [Backboard](https://github.com/tumblr/Backboard) | https://github.com/tumblr/Backboard
-3| [ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator) | https://github.com/blipinsk/ViewPropertyObjectAnimator
-4| [RxAnimations](https://github.com/0ximDigital/RxAnimations) | https://github.com/0ximDigital/RxAnimations
-5| [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | https://www.youtube.com/watch?v=qb63BYjTebU
-6| [SensorAnnotations](https://github.com/dvoiss/SensorAnnotations) | https://github.com/dvoiss/SensorAnnotations
-7| [TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | <img src="https://github.com/thunderrise/android-TNRAnimationHelper/raw/master/images/flip.gif" width="250" height="490">
-8| [Particle](https://github.com/JeasonWong/Particle) | <img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="250" height="490">
-9| [animate](https://github.com/hitherejoe/animate) | <img src="https://github.com/hitherejoe/animate/raw/master/images/object_animator.gif" width="250" height="490">
+01| [rebound](https://github.com/facebook/rebound) | https://github.com/facebook/rebound
+02| [Backboard](https://github.com/tumblr/Backboard) | https://github.com/tumblr/Backboard
+03| [ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator) | https://github.com/blipinsk/ViewPropertyObjectAnimator
+04| [RxAnimations](https://github.com/0ximDigital/RxAnimations) | https://github.com/0ximDigital/RxAnimations
+05| [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | https://www.youtube.com/watch?v=qb63BYjTebU
+06| [SensorAnnotations](https://github.com/dvoiss/SensorAnnotations) | https://github.com/dvoiss/SensorAnnotations
+07| [TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | <img src="https://github.com/thunderrise/android-TNRAnimationHelper/raw/master/images/flip.gif" width="250" height="490">
+08| [Particle](https://github.com/JeasonWong/Particle) | <img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="250" height="490">
+09| [animate](https://github.com/hitherejoe/animate) | <img src="https://github.com/hitherejoe/animate/raw/master/images/object_animator.gif" width="250" height="490">
 10| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | <img src="https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966" width="250" height="490">
 11| [ViewAnimator](https://github.com/florent37/ViewAnimator) | <img src="https://camo.githubusercontent.com/7866ffeb46a145b8663611f0d2794506822cda82/68747470733a2f2f6a2e676966732e636f6d2f5844365234562e676966" width="250" height="490">
 12| [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | ![](https://camo.githubusercontent.com/0dbd6c6ad1b4f67503002df27efc5c0551183430/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f6335312f6231652f6232362f63353162316562323666623934313639386164356131333638643036363033622e676966)

@@ -2,15 +2,15 @@ Progressbar
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | ![](https://github.com/castorflex/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
-2| [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | ![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)
-3| [CircleProgress](https://github.com/lzyzsd/CircleProgress) | <img src="https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif" width="250" height="490">
-4| [android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) | ![](https://camo.githubusercontent.com/4b6b2daf76eacbd6565bb6f5349951711c7cea15/68747470733a2f2f7671626169712d626e313330362e66696c65732e316472762e636f6d2f79336d5759733942754965394e31543939614e504a334f533048454658674a48436e3936766f436a5463306755697973413771627a50794c6d302d3255694d64496b64644350494558347541584837534859615f705338646d384d2d533151306d6b535f30774e68693351504d622d413964372d537a445f4c496664413571794a6446582d394672666a736b596b6b5066336a52557167364d426d516e4d52664f66617159356934626236415a773f)
-5| [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | ![](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)
-6| [Animated Circle Loading View](https://github.com/jlmd/AnimatedCircleLoadingView) | <img src="https://github.com/jlmd/AnimatedCircleLoadingView/raw/master/art/indeterminate_ok.gif" width="250" height="490">
-7| [CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) | <img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="250" height="490">
-8| [progressbar](https://github.com/mrwonderman/android-square-progressbar) | ![](https://camo.githubusercontent.com/4b6b2daf76eacbd6565bb6f5349951711c7cea15/68747470733a2f2f7671626169712d626e313330362e66696c65732e316472762e636f6d2f79336d5759733942754965394e31543939614e504a334f533048454658674a48436e3936766f436a5463306755697973413771627a50794c6d302d3255694d64496b64644350494558347541584837534859615f705338646d384d2d533151306d6b535f30774e68693351504d622d413964372d537a445f4c496664413571794a6446582d394672666a736b596b6b5066336a52557167364d426d516e4d52664f66617159356934626236415a773f)
-9| [water-wave-progress](https://github.com/Modificator/water-wave-progress) | <img src="https://github.com/Modificator/water-wave-progress/raw/AS/screenshot/p2en.gif" width="250" height="490">
+01| [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | ![](https://github.com/castorflex/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
+02| [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | ![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)
+03| [CircleProgress](https://github.com/lzyzsd/CircleProgress) | <img src="https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif" width="250" height="490">
+04| [android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) | ![](https://camo.githubusercontent.com/4b6b2daf76eacbd6565bb6f5349951711c7cea15/68747470733a2f2f7671626169712d626e313330362e66696c65732e316472762e636f6d2f79336d5759733942754965394e31543939614e504a334f533048454658674a48436e3936766f436a5463306755697973413771627a50794c6d302d3255694d64496b64644350494558347541584837534859615f705338646d384d2d533151306d6b535f30774e68693351504d622d413964372d537a445f4c496664413571794a6446582d394672666a736b596b6b5066336a52557167364d426d516e4d52664f66617159356934626236415a773f)
+05| [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | ![](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)
+06| [Animated Circle Loading View](https://github.com/jlmd/AnimatedCircleLoadingView) | <img src="https://github.com/jlmd/AnimatedCircleLoadingView/raw/master/art/indeterminate_ok.gif" width="250" height="490">
+07| [CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) | <img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="250" height="490">
+08| [progressbar](https://github.com/mrwonderman/android-square-progressbar) | ![](https://camo.githubusercontent.com/4b6b2daf76eacbd6565bb6f5349951711c7cea15/68747470733a2f2f7671626169712d626e313330362e66696c65732e316472762e636f6d2f79336d5759733942754965394e31543939614e504a334f533048454658674a48436e3936766f436a5463306755697973413771627a50794c6d302d3255694d64496b64644350494558347541584837534859615f705338646d384d2d533151306d6b535f30774e68693351504d622d413964372d537a445f4c496664413571794a6446582d394672666a736b596b6b5066336a52557167364d426d516e4d52664f66617159356934626236415a773f)
+09| [water-wave-progress](https://github.com/Modificator/water-wave-progress) | <img src="https://github.com/Modificator/water-wave-progress/raw/AS/screenshot/p2en.gif" width="250" height="490">
 10| [RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | ![](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)
 11| [RopeProgressBar](https://github.com/cdeange/RopeProgressBar) | ![](https://github.com/cdeange/RopeProgressBar/raw/master/ropeprogressbar.gif)
 12| [AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView) | <img src="https://github.com/jlmd/AnimatedCircleLoadingView/raw/master/art/indeterminate_ok.gif" width="250" height="490">
@@ -29,15 +29,15 @@ Loading
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) | https://github.com/JeasonWong/BezierLoadingView
-2| [loadtoast](https://github.com/code-mc/loadtoast) | ![](https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966)
-3| [Titanic](https://github.com/RomainPiel/Titanic) | <img src="https://github.com/RomainPiel/Titanic/raw/master/titanic.gif" width="250" height="490">
-4| [uberprogressview](https://github.com/droidchef/uberprogressview) | <img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="250" height="490">
-5| [WaveView](https://github.com/gelitenight/WaveView) | ![](https://github.com/gelitenight/WaveView/raw/master/screenshot.gif =300x290)
-6| [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | ![](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/NexusRotationCross.gif)
-7| [Loading](https://github.com/yankai-victor/Loading) | ![](https://github.com/yankai-victor/Loading/raw/master/images/NewtonCradleLoading.gif)
-8| [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | <img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/raw/master/art/demoWaves.gif" width="250" height="490">
-9| [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | <img src="https://github.com/81813780/AVLoadingIndicatorView/raw/master/screenshots/avi.gif" width="250" height="490">
+01| [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) | https://github.com/JeasonWong/BezierLoadingView
+02| [loadtoast](https://github.com/code-mc/loadtoast) | ![](https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966)
+03| [Titanic](https://github.com/RomainPiel/Titanic) | <img src="https://github.com/RomainPiel/Titanic/raw/master/titanic.gif" width="250" height="490">
+04| [uberprogressview](https://github.com/droidchef/uberprogressview) | <img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="250" height="490">
+05| [WaveView](https://github.com/gelitenight/WaveView) | ![](https://github.com/gelitenight/WaveView/raw/master/screenshot.gif =300x290)
+06| [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | ![](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/NexusRotationCross.gif)
+07| [Loading](https://github.com/yankai-victor/Loading) | ![](https://github.com/yankai-victor/Loading/raw/master/images/NewtonCradleLoading.gif)
+08| [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | <img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/raw/master/art/demoWaves.gif" width="250" height="490">
+09| [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | <img src="https://github.com/81813780/AVLoadingIndicatorView/raw/master/screenshots/avi.gif" width="250" height="490">
 10| [LoadingDots](https://github.com/EyalBira/loading-dots) | <img src="https://github.com/EyalBira/loading-dots/raw/master/screens/demo.gif" width="250" height="490">
 11| [DotLoader](https://github.com/bhargavms/DotLoader) | ![](https://github.com/bhargavms/DotLoader/raw/master/assets/adding_dots.gif?raw=true)
 12| [ENViews](https://github.com/codeestX/ENViews) | ![](https://github.com/codeestX/ENViews/raw/master/preview/o_loading.gif)
@@ -78,30 +78,30 @@ Download
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [FreshDownloadView](https://github.com/dudu90/FreshDownloadView) | <img src="https://github.com/dudu90/FreshDownloadView/raw/master/screen/screen.gif" width="250" height="490">
-2| [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
-3| [GADownloading](https://github.com/Ajian-studio/GADownloading) | ![](https://github.com/Ajian-studio/GADownloading/raw/master/raw/my_loading_view_success.gif)
-4| [DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar) | ![](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif)
-5| [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
+01| [FreshDownloadView](https://github.com/dudu90/FreshDownloadView) | <img src="https://github.com/dudu90/FreshDownloadView/raw/master/screen/screen.gif" width="250" height="490">
+02| [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
+03| [GADownloading](https://github.com/Ajian-studio/GADownloading) | ![](https://github.com/Ajian-studio/GADownloading/raw/master/raw/my_loading_view_success.gif)
+04| [DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar) | ![](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif)
+05| [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
 
 Dialog
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [spots-dialog](https://github.com/d-max/spots-dialog) | <img src="https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966" width="250" height="490">
-2| [ACProgressLite](https://github.com/Cloudist/ACProgressLite) | <img src="https://raw.githubusercontent.com/Cloudist/ACProgressLite/master/intros/screenshot_0.png" width="250" height="490">
-3| [KProgressHUD](https://github.com/Kaopiz/KProgressHUD) | <img src="https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif" width="250" height="490">
+01| [spots-dialog](https://github.com/d-max/spots-dialog) | <img src="https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966" width="250" height="490">
+02| [ACProgressLite](https://github.com/Cloudist/ACProgressLite) | <img src="https://raw.githubusercontent.com/Cloudist/ACProgressLite/master/intros/screenshot_0.png" width="250" height="490">
+03| [KProgressHUD](https://github.com/Kaopiz/KProgressHUD) | <img src="https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif" width="250" height="490">
 
 Other
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-1| [LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) | <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" width="250" height="490">
-2| [AwesomeProgressbar](https://github.com/alex5241/AwesomeProgressbar) | <img src="https://github.com/alex5241/AwesomeProgressbar/raw/master/Art/awesomebar.gif" width="250" height="490">
-3| [stackedhorizontalprogressbar](https://github.com/nisrulz/stackedhorizontalprogressbar) | ![](https://github.com/nisrulz/stackedhorizontalprogressbar/raw/develop/img/walkthrough-cropped.gif)
-4| [DelayedProgress](https://github.com/tasomaniac/DelayedProgress) | <img src="https://cloud.githubusercontent.com/assets/763339/11843080/39e52c96-a410-11e5-81ea-f8c0ec623283.gif" width="250" height="490">
-5| [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | <img src="https://camo.githubusercontent.com/e5dbfd3b4b25e32d57b47a2376f27aeaa949d6a2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6d7a5f78375669487670512f5675774843727776792d492f4141414141414141434e512f7653687530396752784459763165656b6a4f4c4465534b6f484d536c75706833772f773332352d683535322d6e6f2f617073765f707265766965775f6f66667365742e676966" width="250" height="490">
-6| [RingProgress](https://github.com/ldoublem/RingProgress) | <img src="https://github.com/ldoublem/RingProgress/raw/master/shot/shot1.jpeg" width="250" height="490">
-7| [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | <img src="https://camo.githubusercontent.com/e5dbfd3b4b25e32d57b47a2376f27aeaa949d6a2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6d7a5f78375669487670512f5675774843727776792d492f4141414141414141434e512f7653687530396752784459763165656b6a4f4c4465534b6f484d536c75706833772f773332352d683535322d6e6f2f617073765f707265766965775f6f66667365742e676966" width="250" height="490">
-8| [ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) | ![](https://camo.githubusercontent.com/611d22202564ed670837756695c1d712f23c26ce/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363546a6c564e6b6c6855485a69625645)
-9| [PaperShredder](https://github.com/ldoublem/PaperShredder) | ![](https://github.com/ldoublem/PaperShredder/raw/master/screenshot/2.gif)
+01| [LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) | <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" width="250" height="490">
+02| [AwesomeProgressbar](https://github.com/alex5241/AwesomeProgressbar) | <img src="https://github.com/alex5241/AwesomeProgressbar/raw/master/Art/awesomebar.gif" width="250" height="490">
+03| [stackedhorizontalprogressbar](https://github.com/nisrulz/stackedhorizontalprogressbar) | ![](https://github.com/nisrulz/stackedhorizontalprogressbar/raw/develop/img/walkthrough-cropped.gif)
+04| [DelayedProgress](https://github.com/tasomaniac/DelayedProgress) | <img src="https://cloud.githubusercontent.com/assets/763339/11843080/39e52c96-a410-11e5-81ea-f8c0ec623283.gif" width="250" height="490">
+05| [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | <img src="https://camo.githubusercontent.com/e5dbfd3b4b25e32d57b47a2376f27aeaa949d6a2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6d7a5f78375669487670512f5675774843727776792d492f4141414141414141434e512f7653687530396752784459763165656b6a4f4c4465534b6f484d536c75706833772f773332352d683535322d6e6f2f617073765f707265766965775f6f66667365742e676966" width="250" height="490">
+06| [RingProgress](https://github.com/ldoublem/RingProgress) | <img src="https://github.com/ldoublem/RingProgress/raw/master/shot/shot1.jpeg" width="250" height="490">
+07| [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | <img src="https://camo.githubusercontent.com/e5dbfd3b4b25e32d57b47a2376f27aeaa949d6a2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6d7a5f78375669487670512f5675774843727776792d492f4141414141414141434e512f7653687530396752784459763165656b6a4f4c4465534b6f484d536c75706833772f773332352d683535322d6e6f2f617073765f707265766965775f6f66667365742e676966" width="250" height="490">
+08| [ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) | ![](https://camo.githubusercontent.com/611d22202564ed670837756695c1d712f23c26ce/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363546a6c564e6b6c6855485a69625645)
+09| [PaperShredder](https://github.com/ldoublem/PaperShredder) | ![](https://github.com/ldoublem/PaperShredder/raw/master/screenshot/2.gif)
