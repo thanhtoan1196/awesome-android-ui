@@ -80,26 +80,27 @@ Other
 ======================
 No. | Name | Demo
 :---: | :---: | ---
-01| [Android-SpeedyViewSelector](https://github.com/devsoulwolf/Android-SpeedyViewSelector) | <img src="https://camo.githubusercontent.com/b24ad1f02560ddee0683c5e58568d9446c24e3e1/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f313032353139323032362f54423274477169657058585858586b5870585858585858585858585f2121313032353139323032362e676966" width="250" height="490">
-02| [Swipper](https://github.com/sdsmdg/Swipper) | <img src="https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width="250" height="490">
-03| [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) | ![](https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966)
-04| [WellSwipe](https://github.com/gumingwei/WellSwipe) | <img src="https://github.com/gumingwei/WellSwipe/raw/master/app/wellswipe4.gif" width="250" height="490">
-05| [StatusBarUtil](https://github.com/laobie/StatusBarUtil) | ![](https://github.com/laobie/StatusBarUtil/raw/master/img/status_bar_util.png)
-06| [Genius-Android](https://github.com/qiujuer/Genius-Android) | ![](https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png)
-07| [3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid) | <img src="https://raw.githubusercontent.com/misakuo/3dTagCloudAndroid/master/screenshot.gif" width="250" height="490">
-08| [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/raw/master/screens/1.gif" width="250" height="490">
-09| [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) | ![](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif)
-10| [Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView) | ![](https://github.com/klinker24/Android-3DTouch-PeekView/raw/master/preview.gif)
-11| [SimpleTargetView](https://github.com/anastr/SimpleTargetView) | ![](https://github.com/anastr/SimpleTargetView/raw/master/images/gif3.gif)
-12| [WindowView](https://github.com/justasm/WindowView) | <img src="https://github.com/justasm/WindowView/raw/master/sample/sample_in_action.gif" width="250" height="490">
-13| [StarWars.Android](https://github.com/Yalantis/StarWars.Android) | ![](https://github.com/Yalantis/StarWars.Android/raw/master/star_wars-concept.gif)
-14| [Vorolay](https://github.com/Quatja/Vorolay) | ![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_1.png)
-15| [ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout) | <img src="https://github.com/zhangke3016/ParticleDismissLayout/raw/master/gif/screen1.gif" width="250" height="490">
-16| [Thermometer](https://github.com/kofigyan/Thermometer) | ![](https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif)
-17| [Snake View](https://github.com/txusballesteros/snake) | ![](https://github.com/txusballesteros/snake/raw/master/assets/demo.gif)
-18| [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | <img src="https://github.com/h6ah4i/android-materialshadowninepatch/raw/master/pic/gb.png?raw=true" width="250" height="490">
-19| [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | <img src="https://camo.githubusercontent.com/16af60840003c7f6bc70a3f72a7662a228707eb3/687474703a2f2f6661742e6766796361742e636f6d2f546f74616c436865657266756c44726f6d65646172792e676966" width="250" height="490">
-20| [Trianglify](https://github.com/manolovn/trianglify) | <img src="https://github.com/manolovn/trianglify/raw/master/art/001.png" width="250" height="490">
-21| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
-22| [RadarScanView](https://github.com/gpfduoduo/RadarScanView) | <img src="https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif" width="250" height="490">
-23| [MultiLineRadioGroup](https://github.com/Gavras/MultiLineRadioGroup) | https://github.com/Gavras/MultiLineRadioGroup
+01| [Shadow](https://github.com/loopeer/shadow) | <img src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="250" height="490">
+02| [Android-SpeedyViewSelector](https://github.com/devsoulwolf/Android-SpeedyViewSelector) | <img src="https://camo.githubusercontent.com/b24ad1f02560ddee0683c5e58568d9446c24e3e1/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f313032353139323032362f54423274477169657058585858586b5870585858585858585858585f2121313032353139323032362e676966" width="250" height="490">
+03| [Swipper](https://github.com/sdsmdg/Swipper) | <img src="https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width="250" height="490">
+04| [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) | ![](https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966)
+05| [WellSwipe](https://github.com/gumingwei/WellSwipe) | <img src="https://github.com/gumingwei/WellSwipe/raw/master/app/wellswipe4.gif" width="250" height="490">
+06| [StatusBarUtil](https://github.com/laobie/StatusBarUtil) | ![](https://github.com/laobie/StatusBarUtil/raw/master/img/status_bar_util.png)
+07| [Genius-Android](https://github.com/qiujuer/Genius-Android) | ![](https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png)
+08| [3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid) | <img src="https://raw.githubusercontent.com/misakuo/3dTagCloudAndroid/master/screenshot.gif" width="250" height="490">
+09| [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/raw/master/screens/1.gif" width="250" height="490">
+10| [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) | ![](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif)
+11| [Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView) | ![](https://github.com/klinker24/Android-3DTouch-PeekView/raw/master/preview.gif)
+12| [SimpleTargetView](https://github.com/anastr/SimpleTargetView) | ![](https://github.com/anastr/SimpleTargetView/raw/master/images/gif3.gif)
+13| [WindowView](https://github.com/justasm/WindowView) | <img src="https://github.com/justasm/WindowView/raw/master/sample/sample_in_action.gif" width="250" height="490">
+14| [StarWars.Android](https://github.com/Yalantis/StarWars.Android) | ![](https://github.com/Yalantis/StarWars.Android/raw/master/star_wars-concept.gif)
+15| [Vorolay](https://github.com/Quatja/Vorolay) | ![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_1.png)
+16| [ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout) | <img src="https://github.com/zhangke3016/ParticleDismissLayout/raw/master/gif/screen1.gif" width="250" height="490">
+17| [Thermometer](https://github.com/kofigyan/Thermometer) | ![](https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif)
+18| [Snake View](https://github.com/txusballesteros/snake) | ![](https://github.com/txusballesteros/snake/raw/master/assets/demo.gif)
+19| [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | <img src="https://github.com/h6ah4i/android-materialshadowninepatch/raw/master/pic/gb.png?raw=true" width="250" height="490">
+20| [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | <img src="https://camo.githubusercontent.com/16af60840003c7f6bc70a3f72a7662a228707eb3/687474703a2f2f6661742e6766796361742e636f6d2f546f74616c436865657266756c44726f6d65646172792e676966" width="250" height="490">
+21| [Trianglify](https://github.com/manolovn/trianglify) | <img src="https://github.com/manolovn/trianglify/raw/master/art/001.png" width="250" height="490">
+22| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
+23| [RadarScanView](https://github.com/gpfduoduo/RadarScanView) | <img src="https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif" width="250" height="490">
+24| [MultiLineRadioGroup](https://github.com/Gavras/MultiLineRadioGroup) | https://github.com/Gavras/MultiLineRadioGroup

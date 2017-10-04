@@ -18,6 +18,7 @@ No. | Name | Demo
 07| [android-crop](https://github.com/jdamcd/android-crop) | <img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="250" height="490">
 08| [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | <img src="https://camo.githubusercontent.com/4543749a82bbbcf158fe81e593c85aabeca4fe1b/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f312e312e302f64656d6f5f62617369635f75736167652e676966" width="250" height="490">
 09| [cropiwa](https://github.com/steelkiwi/cropiwa) | ![](https://github.com/polyak01/cropiwa/raw/master/assets/3J8gYWC.gif)
+10| [SmartCropper](https://github.com/pqpo/SmartCropper) | ![](https://github.com/pqpo/SmartCropper/raw/master/art/smart_crop_1.png)
 
 Filter
 ======================
