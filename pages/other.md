@@ -104,3 +104,4 @@ No. | Name | Demo
 22| [WheelView-Android](https://github.com/lantouzi/WheelView-Android) | <img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.png" width="250" height="490">
 23| [RadarScanView](https://github.com/gpfduoduo/RadarScanView) | <img src="https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif" width="250" height="490">
 24| [MultiLineRadioGroup](https://github.com/Gavras/MultiLineRadioGroup) | https://github.com/Gavras/MultiLineRadioGroup
+25| [Swipper](https://github.com/pkarira/Swipper) | https://github.com/pkarira/Swipper
