@@ -95,3 +95,4 @@ No. | Name | Demo
 30| [EmojiRain](https://github.com/Luolc/EmojiRain) | <img src="https://raw.githubusercontent.com/Luolc/EmojiRain/master/others/dropping-demo.gif" width="250" height="490">
 31| [ParticlesDrawable](https://github.com/Doctoror/ParticlesDrawable) | <img src="https://github.com/Doctoror/ParticlesDrawable/raw/master/screenshots/default.gif?raw=true" width="250" height="490">
 32| [SIRIWaveView](https://github.com/alexgomes09/SIRIWaveView) | <img src="https://github.com/alexgomes09/SIRIWaveView/raw/master/captures/screen_capture.gif" width="250" height="490">
+33| [TextPathView](https://github.com/totond/TextPathView) | <img src="https://camo.githubusercontent.com/5f388182db2cf6e039befbfdc41a7e195e93f5a4/68747470733a2f2f692e696d6775722e636f6d2f6c356f385847352e676966" width="250" height="490">

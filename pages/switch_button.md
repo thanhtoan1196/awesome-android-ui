@@ -11,3 +11,4 @@ No. | Name | Demo
 07| [material-animated-switch](https://github.com/glomadrian/material-animated-switch) | <img src="https://github.com/glomadrian/material-animated-switch/raw/master/art/all.png" width="250" height="490">
 08| [SwitchButton](https://github.com/xiaopansky/SwitchButton) | <img src="https://github.com/xiaopansky/SwitchButton/raw/master/docs/sample.gif" width="250" height="490">
 09| [StickySwitch](https://github.com/GwonHyeok/StickySwitch) | ![](https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif)
+10| [IconSwitch](https://github.com/polyak01/IconSwitch) | ![](https://github.com/polyak01/IconSwitch/raw/master/data/3J8gYHy.gif)

@@ -61,3 +61,4 @@ No. | Name | Demo
 08| [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | ![](https://camo.githubusercontent.com/d359ae58a72bc330df60758703185777a15bd1a0/687474703a2f2f692e696d6775722e636f6d2f6953697a4838322e706e67)
 09| [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | <img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="250" height="490">
 10| [android-anyshape](https://github.com/lankton/android-anyshape) | <img src="https://github.com/lankton/android-anyshape/raw/master/pictures/with_mask_gif.gif" width="250" height="490">
+11| [diagonal-imageview](https://github.com/santalu/diagonal-imageview) | <img src="https://github.com/santalu/diagonal-imageview/raw/master/screens/cv.png" width="250" height="490">

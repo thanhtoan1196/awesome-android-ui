@@ -18,6 +18,7 @@ No. | Name | Demo
 07| [PhotoPicker](https://github.com/donglua/PhotoPicker) | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
 08| [AwesomeImagePicker](https://github.com/myinnos/AwesomeImagePicker) | ![](https://camo.githubusercontent.com/45ab9aa0ae283294e359f96f210e96b07c13be7d/68747470733a2f2f7331392e706f7374696d672e6f72672f34656869626f7a7a372f496d6167655f5069636b65725f6578616d706c655f332e706e67)
 09| [Louvre](https://github.com/andremion/Louvre) | ![](https://raw.githubusercontent.com/andremion/Louvre/master/art/sample.gif)
+10| [PhotoPicker](https://github.com/donglua/PhotoPicker) | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
 
 File picker
 ======================
