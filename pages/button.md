@@ -19,6 +19,7 @@ No. | Name | Demo
 15| [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) |  <img src="https://camo.githubusercontent.com/51755d59ed6fd53158a0d84696e6d184c3a6f4d5/68747470733a2f2f7261772e6769746875622e636f6d2f426561726465642d48656e2f416e64726f69642d426f6f7473747261702f6d61737465722f696d616765732f626f6f7473747261705f627574746f6e2e706e67" width="250" height="490">
 16| [HoldingButton](https://github.com/dewarder/HoldingButton) |  <img src="https://github.com/dewarder/HoldingButton/raw/master/_arts/example.gif" width="250" height="490">
 17| [CounterFab](https://github.com/andremion/CounterFab) |  ![](https://raw.githubusercontent.com/andremion/CounterFab/master/art/sample.gif)
+18| [proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton) |  ![](https://raw.githubusercontent.com/shadowfaxtech/proSwipeButton/master/proSwipeButton_demo.gif)
 
 FAB
 ======================

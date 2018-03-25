@@ -13,3 +13,5 @@ No. | Name | Demo
 09| [InteractivePlayerView](https://github.com/iammert/InteractivePlayerView) | ![](https://raw.githubusercontent.com/iammert/InteractivePlayerView/master/art/art.png)
 10| [Music-Cover-View](https://github.com/andremion/Music-Cover-View) | <img src="https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_code.gif" width="250" height="490">
 11| [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) | ![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/sample.gif)
+12| [Android-YouTube-Player](https://github.com/PierfrancescoSoffritti/Android-YouTube-Player) | ![](https://github.com/PierfrancescoSoffritti/AndroidYouTubePlayer/raw/master/pics/android-youtube-player.gif)
+13| [inline-youtube-view](https://github.com/flipkart-incubator/inline-youtube-view) | ![](https://github.com/flipkart-incubator/inline-youtube-view/raw/master/youtube-activity-android.gif)
