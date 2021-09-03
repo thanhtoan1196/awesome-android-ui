@@ -51,6 +51,7 @@ No. | Name | Demo
 :---: | :---: | ---
 01| [RippleView](https://github.com/siriscac/RippleView) | <img src="https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966" width="250" height="490">
 02| [RippleViews](https://github.com/xgc1986/RippleViews) | ![](https://github.com/xgc1986/RippleViews/raw/master/docs/img/DrawableHelperV212.gif)
+03| [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) | ![](https://user-images.githubusercontent.com/6734608/129915453-b57a1618-2d20-42a3-85a7-57bd1c425522.gif)
 
 Broken
 ======================
